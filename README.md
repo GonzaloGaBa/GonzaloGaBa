@@ -2,32 +2,34 @@
 
 ### Cybersecurity Professional | Threat Detection | Programador (UTN)
 
-Vengo del mundo del acompañamiento terapéutico, lo que me dio una capacidad única para la **gestión de crisis** y la resolución de problemas bajo presión. Hoy aplico esa resiliencia para proteger activos digitales.
+Vengo del mundo del acompañamiento terapéutico, lo que me dio una capacidad única para la **gestión de crisis** y resolución de problemas bajo presión. Hoy aplico esa resiliencia para proteger activos digitales y responder ante incidentes de seguridad.
 
 ---
 
-## 🛡️ Proyectos de Ciberseguridad
-* **[Análisis de Incidente: SYN Flood Attack](https://github.com/GonzaloGaBa/Analisis-Incidente-Network-Security)** *Análisis técnico de un ataque DoS contra un servidor web utilizando logs de red y metodología NIST.*
-
-
----
-
-## 💻 Formación en Programación (UTN)
-Mis bases técnicas y proyectos académicos desarrollados en C#:
-* **[Sistema de Inmobiliaria](https://github.com/GonzaloGaBa/Inmobiliaria):** Desarrollo de aplicación de gestión utilizando C#.
-* **[Resolución de Algoritmos](https://github.com/GonzaloGaBa/Guia-01-de-Ejercicios):** Implementación de lógica de programación y estructuras de datos.
-* **[Ejercicios C#](https://github.com/GonzaloGaBa/C-):** Repositorio con diversos ejercicios y soluciones técnicas.
+## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Análisis de Incidente: Network Security (SYN Flood)](https://github.com/GonzaloGaBa/Analisis-Incidente-Network-Security)**
+    *Análisis técnico de un ataque DoS contra un servidor web utilizando logs de red y metodología NIST.*
 
 ---
 
+## 💻 Desarrollo y Programación (UTN)
+Selección de proyectos destacados donde aplico lógica avanzada, POO y manejo de excepciones:
 
-## 🛠️ Herramientas
-* **Seguridad:** Wireshark, NIST Framework, Análisis de Logs.
-* **Desarrollo:** Python, C#, SQL.
+* **[Sistema de Incendios](https://github.com/GonzaloGaBa/Sistema-De-Incendios):** Simulación de sistemas de detección y respuesta.
+* **[Tetris Rap](https://github.com/GonzaloGaBa/Tetris-Rap):** Desarrollo de lógica de juego y manejo de interfaces.
+* **[Sistema de Montacargas](https://github.com/GonzaloGaBa/Parcial-Montacargas):** Programación orientada a objetos aplicada a sistemas de control.
+* **[Gestión de Escáner (Excepciones)](https://github.com/GonzaloGaBa/PP_Escaner_BarrientosGonzalo_Con_Excepcion):** Implementación avanzada de manejo de errores y robustez de software.
+* **[Sistema SUBE](https://github.com/GonzaloGaBa/Parcial1Sube):** Lógica de transacciones y estados.
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+* **Seguridad:** NIST CSF, Wireshark, Análisis de Logs, Gestión de Incidentes.
+* **Lenguajes:** C#, JavaScript, SQL, HTML/CSS.
 * **Sistemas:** Linux, Redes TCP/IP.
 
 ---
 
 ## 📫 Contacto
-* **LinkedIn:** [linkedin.com/in/gonzalogabarrientos](https://www.linkedin.com/in/tu-perfil-aca)
+* **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/gonzalogabarrientos/) 
 * **Email:** gongabar@gmail.com

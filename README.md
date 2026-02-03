@@ -9,15 +9,17 @@ Vengo del mundo del acompañamiento terapéutico, lo que me dio una capacidad ú
 ## 🛡️ Proyectos de Ciberseguridad
 * **[Análisis de Incidente: SYN Flood Attack](https://github.com/GonzaloGaBa/Analisis-Incidente-Network-Security)** *Análisis técnico de un ataque DoS contra un servidor web utilizando logs de red y metodología NIST.*
 
+
 ---
 
 ## 💻 Formación en Programación (UTN)
 Mis bases técnicas y proyectos académicos desarrollados en C#:
 * **[Sistema de Inmobiliaria](https://github.com/GonzaloGaBa/Inmobiliaria):** Desarrollo de aplicación de gestión utilizando C#.
 * **[Resolución de Algoritmos](https://github.com/GonzaloGaBa/Guia-01-de-Ejercicios):** Implementación de lógica de programación y estructuras de datos.
-* **[Proyectos C#](https://github.com/GonzaloGaBa/C-Sharp):** Repositorio con diversos ejercicios y soluciones técnicas.
+* **[Ejercicios C#](https://github.com/GonzaloGaBa/C-):** Repositorio con diversos ejercicios y soluciones técnicas.
 
 ---
+
 
 ## 🛠️ Herramientas
 * **Seguridad:** Wireshark, NIST Framework, Análisis de Logs.

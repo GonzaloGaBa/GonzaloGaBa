@@ -31,5 +31,5 @@ Selección de proyectos destacados donde aplico lógica avanzada, POO y manejo d
 ---
 
 ## 📫 Contacto
-* **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/gonzalogabarrientos/) 
+* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/gonzalogabarrientos/)
 * **Email:** gongabar@gmail.com

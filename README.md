@@ -15,7 +15,7 @@ Vengo del mundo del acompañamiento terapéutico, lo que me dio una capacidad ú
 Mis bases técnicas y proyectos académicos desarrollados en C#:
 * **[Sistema de Inmobiliaria](https://github.com/GonzaloGaBa/Inmobiliaria):** Desarrollo de aplicación de gestión utilizando C#.
 * **[Resolución de Algoritmos](https://github.com/GonzaloGaBa/Guia-01-de-Ejercicios):** Implementación de lógica de programación y estructuras de datos.
-* **[Proyectos C#](https://github.com/GonzaloGaBa/C-):** Repositorio con diversos ejercicios y soluciones técnicas.
+* **[Proyectos C#](https://github.com/GonzaloGaBa/C-Sharp):** Repositorio con diversos ejercicios y soluciones técnicas.
 
 ---
 

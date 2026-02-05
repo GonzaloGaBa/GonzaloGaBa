@@ -7,9 +7,11 @@ Vengo del mundo del acompañamiento terapéutico, lo que me dio una capacidad ú
 ---
 
 ## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Auditoría de Seguridad: NIST Cybersecurity Framework](https://github.com/GonzaloGaBa/Security-Audit-NIST-Framework)**
+    *Auditoría integral y análisis de brechas (Gap Analysis) para una organización, aplicando controles del framework NIST.*
+  
 * **[Análisis de Incidente: Network Security (SYN Flood)](https://github.com/GonzaloGaBa/Analisis-Incidente-Network-Security)**
     *Análisis técnico de un ataque DoS contra un servidor web utilizando logs de red y metodología NIST.*
-
 ---
 
 ## 💻 Desarrollo y Programación (UTN)
@@ -24,7 +26,7 @@ Selección de proyectos destacados donde aplico lógica avanzada, POO y manejo d
 ---
 
 ## 🛠️ Tecnologías y Herramientas
-* **Seguridad:** NIST CSF, Wireshark, Análisis de Logs, Gestión de Incidentes.
+* **Seguridad:** NIST CSF, Wireshark, Análisis de Logs, Gestión de Incidentes,Auditoría de Controles.
 * **Lenguajes:** C#, JavaScript, SQL, HTML/CSS.
 * **Sistemas:** Linux, Redes TCP/IP.
 
@@ -33,3 +35,6 @@ Selección de proyectos destacados donde aplico lógica avanzada, POO y manejo d
 ## 📫 Contacto
 * **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/gonzalogabarrientos/)
 * **Email:** gongabar@gmail.com
+
+---
+*"La seguridad no es un producto, es un proceso."*

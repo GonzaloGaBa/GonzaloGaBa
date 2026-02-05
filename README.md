@@ -36,5 +36,3 @@ Selección de proyectos destacados donde aplico lógica avanzada, POO y manejo d
 * **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/gonzalogabarrientos/)
 * **Email:** gongabar@gmail.com
 
----
-*"La seguridad no es un producto, es un proceso."*

@@ -2,12 +2,18 @@
 
 ### Cybersecurity Analyst | Infrastructure Hardening & Defensive Security
 
-Cybersecurity professional based in Argentina, specialized in proactive infrastructure protection, active defense (Blue Team), and secure network administration. Proficient in protocol auditing, implementing robust cryptographic controls, and log analysis utilizing industry-leading SIEM/IDS platforms. Backed by solid technical training in programming logic and structured problem-solving under critical operational environments.
-Analista de Ciberseguridad enfocado en la protección proactiva de infraestructura, defensa activa (Blue Team) y administración segura de redes. Especializado en la auditoría de protocolos, implementación de controles criptográficos robustos y análisis de logs mediante plataformas SIEM/IDS de primera línea.
-
+Analista de Ciberseguridad, especializado en la protección proactiva de infraestructura, defensa activa (Blue Team) y administración segura de redes. Experiencia práctica en la auditoría de protocolos, implementación de controles criptográficos robustos y análisis de logs mediante plataformas SIEM/IDS. Cuento con una sólida formación técnica en lógica de programación y resolución de problemas bajo entornos operativos críticos.
 
 ---
 
+## 🛡️ Core Competencies & Technical Stack
+
+* **SecOps & Monitoring:** SIEM (Google Chronicle, Splunk), IDS/IPS (Suricata), Log Auditing, Incident Response.
+* **Network Security:** Cisco IOS, Traffic Analysis (Wireshark, tcpdump), Cryptographic Hardening (SSHv2, RSA), TCP/IP.
+* **Automation & Dev:** Python (Security Automation / Access Lists), SQL (Log Querying), Linux/Bash, C#.
+* **Frameworks & Standards:** NIST Cybersecurity Framework (CSF), NIST SP 800-61 (Incident Handling).---
+
+---
 ## 🛡️ Proyectos Destacados de Ciberseguridad
 * **[Auditoría de Seguridad: NIST Cybersecurity Framework](https://github.com/GonzaloGaBa/Security-Audit-NIST-Framework)**
     *Auditoría integral y análisis de brechas (Gap Analysis) para una organización, aplicando controles del framework NIST.*
@@ -27,14 +33,6 @@ Selección de proyectos destacados donde aplico lógica avanzada, POO y manejo d
 
 ---
 
-## 🛡️ Core Competencies & Technical Stack
-
-* **SecOps & Monitoring:** SIEM (Google Chronicle, Splunk), IDS/IPS (Suricata), Log Auditing, Incident Response.
-* **Network Security:** Cisco IOS, Traffic Analysis (Wireshark, tcpdump), Cryptographic Hardening (SSHv2, RSA), TCP/IP.
-* **Automation & Dev:** Python (Security Automation / Access Lists), SQL (Log Querying), Linux/Bash, C#.
-* **Frameworks & Standards:** NIST Cybersecurity Framework (CSF), NIST SP 800-61 (Incident Handling).---
-
----
 ## 📜 Education & Professional Certifications
 * **Google Cybersecurity Professional Certificate** 
 *  **Google - Coursera* * **Network & Security Training** 
@@ -43,7 +41,8 @@ Selección de proyectos destacados donde aplico lógica avanzada, POO y manejo d
 ---
 
 ## 🤝 Connect with Me
-Interested in discussing Blue Team operations, network defense infrastructure, or automation in security? Let's connect!
+¿Te interesa conversar sobre operaciones de Blue Team, defensa de infraestructura o automatización en seguridad?
+
 * **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/gonzalogabarrientos/)
 * **Email:** gongabar@gmail.com ---
 

@@ -1,8 +1,10 @@
-# Hola, soy Gonzalo Barrientos 👋
+# Hi there! I'm Gonzalo Barrientos 👋
 
-### Cybersecurity Professional | Threat Detection | Programador (UTN)
+### Cybersecurity Analyst | Infrastructure Hardening & Defensive Security
 
-Vengo del mundo del acompañamiento terapéutico, lo que me dio una capacidad única para la **gestión de crisis** y resolución de problemas bajo presión. Hoy aplico esa resiliencia para proteger activos digitales y responder ante incidentes de seguridad.
+Cybersecurity professional based in Argentina, specialized in proactive infrastructure protection, active defense (Blue Team), and secure network administration. Proficient in protocol auditing, implementing robust cryptographic controls, and log analysis utilizing industry-leading SIEM/IDS platforms. Backed by solid technical training in programming logic and structured problem-solving under critical operational environments.
+Analista de Ciberseguridad enfocado en la protección proactiva de infraestructura, defensa activa (Blue Team) y administración segura de redes. Especializado en la auditoría de protocolos, implementación de controles criptográficos robustos y análisis de logs mediante plataformas SIEM/IDS de primera línea.
+
 
 ---
 
@@ -25,14 +27,23 @@ Selección de proyectos destacados donde aplico lógica avanzada, POO y manejo d
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
-* **Seguridad:** NIST CSF, Wireshark, Análisis de Logs, Gestión de Incidentes,Auditoría de Controles.
-* **Lenguajes:** C#, JavaScript, SQL, HTML/CSS.
-* **Sistemas:** Linux, Redes TCP/IP.
+## 🛡️ Core Competencies & Technical Stack
+
+* **SecOps & Monitoring:** SIEM (Google Chronicle, Splunk), IDS/IPS (Suricata), Log Auditing, Incident Response.
+* **Network Security:** Cisco IOS, Traffic Analysis (Wireshark, tcpdump), Cryptographic Hardening (SSHv2, RSA), TCP/IP.
+* **Automation & Dev:** Python (Security Automation / Access Lists), SQL (Log Querying), Linux/Bash, C#.
+* **Frameworks & Standards:** NIST Cybersecurity Framework (CSF), NIST SP 800-61 (Incident Handling).---
 
 ---
+## 📜 Education & Professional Certifications
+* **Google Cybersecurity Professional Certificate** 
+*  **Google - Coursera* * **Network & Security Training** 
+*  **Cisco Networking Academy* * **Programming & Systems Logic** 
+*  **Universidad Tecnológica Nacional (UTN)* ---
+---
 
-## 📫 Contacto
+## 🤝 Connect with Me
+Interested in discussing Blue Team operations, network defense infrastructure, or automation in security? Let's connect!
 * **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/gonzalogabarrientos/)
-* **Email:** gongabar@gmail.com
+* **Email:** gongabar@gmail.com ---
 

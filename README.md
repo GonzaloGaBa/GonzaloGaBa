@@ -20,6 +20,9 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
   
 * **[Análisis de Incidente: Network Security (SYN Flood)](https://github.com/GonzaloGaBa/Analisis-Incidente-Network-Security)**
     *Análisis técnico de un ataque DoS contra un servidor web utilizando logs de red y metodología NIST.*
+
+* **[Administración Segura de Redes: Mitigación de Telnet mediante Hardening SSH](https://github.com/GonzaloGaBa/cisco-ios-ssh-hardening)**
+    *Implementación de controles de seguridad y mitigación de Telnet en infraestructura Cisco IOS.* 
 ---
 
 ## 💻 Desarrollo y Programación (UTN)

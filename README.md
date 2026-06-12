@@ -22,7 +22,10 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
     *Análisis técnico de un ataque DoS contra un servidor web utilizando logs de red y metodología NIST.*
 
 * **[Administración Segura de Redes: Mitigación de Telnet mediante Hardening SSH](https://github.com/GonzaloGaBa/cisco-ios-ssh-hardening)**
-    *Implementación de controles de seguridad y mitigación de Telnet en infraestructura Cisco IOS.* 
+    *Implementación de controles de seguridad y mitigación de Telnet en infraestructura Cisco IOS.*
+    
+* **[Análisis de Tráfico de Red: Inspección del Protocolo ARP](https://github.com/GonzaloGaBa/analisis-trafico-arp-cisco)**
+    *Análisis táctico en entorno local utilizando el Modo Simulación de Cisco Packet Tracer. Documentación detallada sobre la intercepción de PDUs, el ciclo de vida de las solicitudes de difusión (Broadcast) y la construcción dinámica de tablas de direccionamiento MAC/ARP en switches y routers*
 ---
 
 ## 💻 Desarrollo y Programación (UTN)

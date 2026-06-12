@@ -25,7 +25,8 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
     *Implementación de controles de seguridad y mitigación de Telnet en infraestructura Cisco IOS.*
     
 * **[Análisis de Tráfico de Red: Inspección del Protocolo ARP](https://github.com/GonzaloGaBa/analisis-trafico-arp-cisco)**
-    *Análisis táctico en entorno local utilizando el Modo Simulación de Cisco Packet Tracer. Documentación detallada sobre la intercepción de PDUs, el ciclo de vida de las solicitudes de difusión (Broadcast) y la construcción dinámica de tablas de direccionamiento MAC/ARP en switches y routers*
+    *Intercepción de PDUs y análisis de direccionamiento dinámico en entorno local mediante Cisco Packet Tracer.*
+  
 ---
 
 ## 💻 Desarrollo y Programación (UTN)
@@ -50,5 +51,5 @@ Selección de proyectos destacados donde aplico lógica avanzada, POO y manejo d
 ¿Te interesa conversar sobre operaciones de Blue Team, defensa de infraestructura o automatización en seguridad?
 
 * **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/gonzalogabarrientos/)
-* **Email:** gongabar@gmail.com ---
+* **Email:** gongabar@gmail.com 
 

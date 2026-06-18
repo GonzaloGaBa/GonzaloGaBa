@@ -27,7 +27,7 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 * **[Análisis de Tráfico de Red: Inspección del Protocolo ARP](https://github.com/GonzaloGaBa/analisis-trafico-arp-cisco)**
     *Intercepción de PDUs y análisis de direccionamiento dinámico en entorno local mediante Cisco Packet Tracer.*
   
-* **[Análisis de Protocolos de Transporte: Auditoría TCP/UDP](https://github.com/GonzaloGaBa/auditoria-trafico-tcp-udp)**
+* **[Análisis de Protocolos de Transporte: Auditoría TCP/UDP](https://github.com/GonzaloGaBa/auditoria-trafico-tcp-udp-cisco)**
     *Evaluación de flujo de capas de transporte, inspección de Handshake de 3 vías y mapeo de puertos mediante Cisco Packet Tracer.*
 ---
 

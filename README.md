@@ -9,12 +9,13 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 ## 🛡️ Core Competencies & Technical Stack
 
 * **SecOps & Monitoring:** SIEM (Google Chronicle, Splunk), IDS/IPS (Suricata), Log Auditing, Incident Response.
-* **Network Security:** Cisco IOS, Traffic Analysis (Wireshark, tcpdump), Cryptographic Hardening (SSHv2, RSA), TCP/IP.
+* **Network Security:** Cisco IOS,IPv4 ACL Configuration & Troubleshooting, Traffic Analysis (Wireshark, tcpdump), Cryptographic Hardening (SSHv2, RSA), TCP/IP.
 * **Automation & Dev:** Python (Security Automation / Access Lists), SQL (Log Querying), Linux/Bash, C#.
 * **Frameworks & Standards:** NIST Cybersecurity Framework (CSF), NIST SP 800-61 (Incident Handling).---
 
 ---
 ## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Análisis y Remoción de ACL IPv4 Estándar](https://github.com/GonzaloGaBa/cisco-acl-standard-analysis)** *Auditoría, diagnóstico de tráfico ICMP bloqueado y remoción segura de reglas de filtrado en entorno Cisco IOS.*
 * **[Auditoría de Seguridad: NIST Cybersecurity Framework](https://github.com/GonzaloGaBa/Security-Audit-NIST-Framework)**
     *Auditoría integral y análisis de brechas (Gap Analysis) para una organización, aplicando controles del framework NIST.*
   

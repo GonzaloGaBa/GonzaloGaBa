@@ -15,7 +15,10 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 
 ---
 ## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Investigación de Procesos y Registro: Sysinternals Process Explorer](https://github.com/GonzaloGaBa/windows-process-investigation-sysinternals)** *Análisis de jerarquía de procesos (padre-hijo), verificación de reputación en tiempo real con VirusTotal e inspección de persistencia en el Registro.*
+
 * **[Análisis y Remoción de ACL IPv4 Estándar](https://github.com/GonzaloGaBa/cisco-acl-standard-analysis)** *Auditoría, diagnóstico de tráfico ICMP bloqueado y remoción segura de reglas de filtrado en entorno Cisco IOS.*
+
 * **[Auditoría de Seguridad: NIST Cybersecurity Framework](https://github.com/GonzaloGaBa/Security-Audit-NIST-Framework)**
     *Auditoría integral y análisis de brechas (Gap Analysis) para una organización, aplicando controles del framework NIST.*
   

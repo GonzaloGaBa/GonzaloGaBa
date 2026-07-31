@@ -15,6 +15,8 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 
 ---
 ## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Gestión de Cuentas y Control de Acceso: Usuarios Locales y Permisos NTFS](https://github.com/GonzaloGaBa/windows-user-management-ntfs-lab)** *Administración del ciclo de vida de usuarios, auditoría de grupos en CLI, escalación controlada de privilegios y verificación de aislamiento de perfiles en Windows.*
+
 * **[Investigación de Procesos y Registro: Sysinternals Process Explorer](https://github.com/GonzaloGaBa/windows-process-investigation-sysinternals)** *Análisis de jerarquía de procesos (padre-hijo), verificación de reputación en tiempo real con VirusTotal e inspección de persistencia en el Registro.*
 
 * **[Análisis y Remoción de ACL IPv4 Estándar](https://github.com/GonzaloGaBa/cisco-acl-standard-analysis)** *Auditoría, diagnóstico de tráfico ICMP bloqueado y remoción segura de reglas de filtrado en entorno Cisco IOS.*

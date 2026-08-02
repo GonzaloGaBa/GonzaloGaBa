@@ -15,6 +15,8 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 
 ---
 ## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Monitoreo de Procesos y Recursos: Windows Task Manager & Resource Monitor](https://github.com/GonzaloGaBa/monitoreo-procesos-windows-taskmgr)** *Análisis de jerarquía de ejecuciones (padre-hijo), auditoría de servicios, métricas de red en tiempo real y correlación de PIDs mediante Administrador de Tareas y resmon.exe.*
+
 * **[Administración e Inspección de Endpoints: Windows PowerShell](https://github.com/GonzaloGaBa/cisco-cyberops-labs)** *Mapeo de cmdlets y aliases, inspección de tablas de ruteo IPv4, correlación de sockets activos con PID mediante netstat y mantenimiento CLI.*
 
 * **[Gestión de Cuentas y Control de Acceso: Usuarios Locales y Permisos NTFS](https://github.com/GonzaloGaBa/windows-user-management-ntfs-lab)** *Administración del ciclo de vida de usuarios, auditoría de grupos en CLI, escalación controlada de privilegios y verificación de aislamiento de perfiles en Windows.*

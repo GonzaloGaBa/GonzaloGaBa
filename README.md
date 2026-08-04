@@ -15,6 +15,8 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 
 ---
 ## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Auditoría de Red y Reconocimiento con Nmap](https://github.com/GonzaloGaBa/nmap-port-scanning-audit/tree/master)** *Escaneo de puertos TCP/UDP, fingerprinting de versiones (Banner Grabbing) e identificación de malas configuraciones (FTP Anónimo) mediante scripts NSE.*
+
 * **[Fundamentos de Linux Shell & File Management](https://github.com/GonzaloGaBa/linux-shell-file-management)** *Navegación en el árbol de directorios, manipulación de archivos y directorios, redirección de flujos de salida (I/O) y auditoría de archivos ocultos (.dotfiles) mediante la CLI de Bash.*
 
 * **[Administración y Edición en Linux CLI: Archivos de Configuración y Nginx](https://github.com/GonzaloGaBa/cyberops-linux-cli-text-editing)** *Inspección de archivos ocultos (.bashrc), personalización de entorno Bash (PS1) y reconfiguración de sockets web en Nginx mediante permisos elevados (sudo).*

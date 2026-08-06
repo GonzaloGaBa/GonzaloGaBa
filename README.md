@@ -15,6 +15,8 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 
 ---
 ## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Análisis y Monitoreo de Logs: Linux Syslog & Nginx](https://github.com/GonzaloGaBa/linux-log-analysis-nginx-monitoring/tree/master)** *Auditoría de eventos de autenticación (auth.log), monitoreo HTTP en tiempo real con tail -f y filtrado de logs binarios mediante journalctl.*
+
 * **[Auditoría de Servicios Linux y Banner Grabbing TCP](https://github.com/GonzaloGaBa/linux-services-banner-grabbing)** *Inspección de procesos en segundo plano (ps), correlación de sockets activos y PIDs con netstat, y fingerprinting de servicios HTTP/SSH mediante Telnet.*
 
 * **[Auditoría de Red y Reconocimiento con Nmap](https://github.com/GonzaloGaBa/nmap-port-scanning-audit/tree/master)** *Escaneo de puertos TCP/UDP, fingerprinting de versiones (Banner Grabbing) e identificación de malas configuraciones (FTP Anónimo) mediante scripts NSE.*

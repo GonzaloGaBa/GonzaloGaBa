@@ -15,6 +15,8 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 
 ---
 ## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Configuración de Funciones de Seguridad en Windows y Linux](https://github.com/GonzaloGaBa/os-security-hardening-lab)** *Hardening de cuentas y contraseñas (secpol.msc), auditoría de inicios de sesión, control de tráfico ICMP en Windows Defender Firewall (wf.msc) y análisis de amenazas con chkrootkit y Lynis.*
+
 * **[Administración de Sistemas de Archivos y Permisos POSIX en Linux](https://github.com/GonzaloGaBa/linux-filesystem-permissions-lab)** *Montaje manual de dispositivos de bloque, resolución de errores de acceso (Permission Denied) mediante chmod/chown y análisis de persistencia con enlaces simbólicos y rígidos.*
 
 * **[Análisis y Monitoreo de Logs: Linux Syslog & Nginx](https://github.com/GonzaloGaBa/linux-log-analysis-nginx-monitoring/tree/master)** *Auditoría de eventos de autenticación (auth.log), monitoreo HTTP en tiempo real con tail -f y filtrado de logs binarios mediante journalctl.*

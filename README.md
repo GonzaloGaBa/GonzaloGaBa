@@ -15,6 +15,8 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 
 ---
 ## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Auditoría de Seguridad y Fortalecimiento en Linux: Lynis & UFW](https://github.com/GonzaloGaBa/linux-system-hardening-lynis)** *Auditoría de vulnerabilidades con Lynis, resolución de errores de firma GPG en repositorios, parcheo masivo de paquetes y fortalecimiento perimetral con UFW hasta lograr 0 advertencias.*
+
 * **[Configuración de Funciones de Seguridad en Windows y Linux](https://github.com/GonzaloGaBa/os-security-hardening-lab)** *Hardening de cuentas y contraseñas (secpol.msc), auditoría de inicios de sesión, control de tráfico ICMP en Windows Defender Firewall (wf.msc) y análisis de amenazas con chkrootkit y Lynis.*
 
 * **[Administración de Sistemas de Archivos y Permisos POSIX en Linux](https://github.com/GonzaloGaBa/linux-filesystem-permissions-lab)** *Montaje manual de dispositivos de bloque, resolución de errores de acceso (Permission Denied) mediante chmod/chown y análisis de persistencia con enlaces simbólicos y rígidos.*

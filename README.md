@@ -15,6 +15,8 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 
 ---
 ## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Auditoría y Recuperación de Contraseñas en Linux: John the Ripper](https://github.com/GonzaloGaBa/recuperacion-contrasenas-linux-john-the-ripper)** *Auditoría offline de credenciales mediante unshadowing (/etc/passwd y /etc/shadow), cracking por diccionario con reglas y mitigación de riesgos aplicando políticas de contraseñas robustas.*
+
 * **[Auditoría de Seguridad y Fortalecimiento en Linux: Lynis & UFW](https://github.com/GonzaloGaBa/linux-system-hardening-lynis)** *Auditoría de vulnerabilidades con Lynis, resolución de errores de firma GPG en repositorios, parcheo masivo de paquetes y fortalecimiento perimetral con UFW hasta lograr 0 advertencias.*
 
 * **[Configuración de Funciones de Seguridad en Windows y Linux](https://github.com/GonzaloGaBa/os-security-hardening-lab)** *Hardening de cuentas y contraseñas (secpol.msc), auditoría de inicios de sesión, control de tráfico ICMP en Windows Defender Firewall (wf.msc) y análisis de amenazas con chkrootkit y Lynis.*

@@ -15,6 +15,8 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 
 ---
 ## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Caso de Estudio: Mitigación de Vulnerabilidades en Terminales y Selección de Soluciones EDR/EPP](https://github.com/GonzaloGaBa/mitigacion-seguridad-terminales-edr/tree/master)** *Evaluación de riesgos y mitigación en entornos SCADA/OT mediante Modelo Purdue, hardening de USB (GPO), aislamiento BYOD con NAC e integración de EDR Cloud-Native (Cisco Secure Endpoint) para SOC.*
+
 * **[Auditoría y Recuperación de Contraseñas en Linux: John the Ripper](https://github.com/GonzaloGaBa/recuperacion-contrasenas-linux-john-the-ripper)** *Auditoría offline de credenciales mediante unshadowing (/etc/passwd y /etc/shadow), cracking por diccionario con reglas y mitigación de riesgos aplicando políticas de contraseñas robustas.*
 
 * **[Auditoría de Seguridad y Fortalecimiento en Linux: Lynis & UFW](https://github.com/GonzaloGaBa/linux-system-hardening-lynis)** *Auditoría de vulnerabilidades con Lynis, resolución de errores de firma GPG en repositorios, parcheo masivo de paquetes y fortalecimiento perimetral con UFW hasta lograr 0 advertencias.*

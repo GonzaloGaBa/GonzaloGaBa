@@ -15,6 +15,8 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 
 ---
 ## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Exploración de Cifrado de Archivos y Datos en Tránsito: OpenSSL & FTP](https://github.com/GonzaloGaBa/cisco-file-and-data-encryption/tree/master)** *Protección de datos en reposo (AES-256-CBC) y en tránsito, descifrado de credenciales con OpenSSL en Linux, transferencia segura en servidores FTP e intercambio de claves fuera de banda.*
+
 * **[Verificación de Integridad de Archivos y Respuesta a Incidentes: MD5 & HMAC](https://github.com/GonzaloGaBa/verificacion-integridad-hashes)** *Auditoría de datos en servidor FTP mediante líneas base MD5, detección de alteración no autorizada (data tampering), escalado de incidentes y validación criptográfica con HMAC-SHA256 en Linux.*
 
 * **[Análisis Estático y Dinámico de Malware: Emotet Maldoc](https://github.com/GonzaloGaBa/emotet-maldoc-analysis/tree/master)** *Investigación SOC de documento Word malicioso mediante VirusTotal, ejecución en sandbox (ANY.RUN), desofuscación de scripts PowerShell Base64/UTF-16LE en Linux CLI y extracción de IoCs de red.*

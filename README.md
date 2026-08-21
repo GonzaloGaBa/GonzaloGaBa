@@ -15,6 +15,8 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 
 ---
 ## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Evaluación de Riesgos y Gestión de Activos: Athena Inc.](https://github.com/GonzaloGaBa/evaluacion-riesgos-athena/tree/master)** *Análisis de riesgos corporativos, clasificación de activos críticos, identificación de vectores de ataque y diseño de matriz de mitigación orientada a entornos híbridos y BYOD.*
+
 * **[Exploración de Cifrado de Archivos y Datos en Tránsito: OpenSSL & FTP](https://github.com/GonzaloGaBa/cisco-file-and-data-encryption/tree/master)** *Protección de datos en reposo (AES-256-CBC) y en tránsito, descifrado de credenciales con OpenSSL en Linux, transferencia segura en servidores FTP e intercambio de claves fuera de banda.*
 
 * **[Verificación de Integridad de Archivos y Respuesta a Incidentes: MD5 & HMAC](https://github.com/GonzaloGaBa/verificacion-integridad-hashes)** *Auditoría de datos en servidor FTP mediante líneas base MD5, detección de alteración no autorizada (data tampering), escalado de incidentes y validación criptográfica con HMAC-SHA256 en Linux.*

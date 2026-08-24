@@ -15,6 +15,8 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 
 ---
 ## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Hardening y Segmentación de Redes Inalámbricas SOHO: Cisco Packet Tracer](https://github.com/GonzaloGaBa/soho-wireless-hardening)** *Fortalecimiento perimetral en router SOHO mediante credenciales administrativas robustas, cifrado WPA2/AES y aislamiento de clientes en red de invitados (Guest Isolation) para mitigar movimiento lateral.*
+
 * **[Evaluación de Riesgos y Gestión de Activos: Athena Inc.](https://github.com/GonzaloGaBa/evaluacion-riesgos-athena/tree/master)** *Análisis de riesgos corporativos, clasificación de activos críticos, identificación de vectores de ataque y diseño de matriz de mitigación orientada a entornos híbridos y BYOD.*
 
 * **[Exploración de Cifrado de Archivos y Datos en Tránsito: OpenSSL & FTP](https://github.com/GonzaloGaBa/cisco-file-and-data-encryption/tree/master)** *Protección de datos en reposo (AES-256-CBC) y en tránsito, descifrado de credenciales con OpenSSL en Linux, transferencia segura en servidores FTP e intercambio de claves fuera de banda.*

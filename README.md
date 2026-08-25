@@ -15,6 +15,8 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 
 ---
 ## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Implementación de Servicios, Autenticación AAA y Control Granular RBAC: Cisco Packet Tracer](https://github.com/GonzaloGaBa/cisco-services-aaa-rbac-lab)** *Despliegue de gestión de identidades centralizada (IAM) con RADIUS sobre WPA2-Enterprise, servicios corporativos SMTP/POP3 y aplicación del principio de menor privilegio (Least Privilege) en FTP.*
+
 * **[Aseguramiento Inalámbrico y Gestión Centralizada IoT: Cisco Packet Tracer](https://github.com/GonzaloGaBa/IoT-Wireless-Hardening-and-Centralized-Management/tree/master)** *Implementación de bastionado en Capa 2 mediante filtrado MAC inalámbrico (Whitelist) y orquestación centralizada en Capa 7 para el monitoreo y control de activos IoT.*
 
 * **[Hardening y Segmentación de Redes Inalámbricas SOHO: Cisco Packet Tracer](https://github.com/GonzaloGaBa/soho-wireless-hardening)** *Fortalecimiento perimetral en router SOHO mediante credenciales administrativas robustas, cifrado WPA2/AES y aislamiento de clientes en red de invitados (Guest Isolation) para mitigar movimiento lateral.*

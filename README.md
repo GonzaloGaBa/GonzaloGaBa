@@ -15,6 +15,8 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 
 ---
 ## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Implementación de Autenticación AAA con TACACS+ y RADIUS: Cisco IOS](https://github.com/GonzaloGaBa/cisco-ios-autenticacion-aaa-tacacs-radius)** *Despliegue de gestión de identidades centralizada (IAM) para administración de dispositivos de red, migración de contraseñas locales a servidores TACACS+/RADIUS y configuración de mecanismos de contingencia (fallback) para prevenir lockouts.*
+
 * **[Administración de Usuarios y Control de Accesos POSIX: Linux CLI](https://github.com/GonzaloGaBa/gestion-usuarios-permisos-posix-linux/tree/master)** *Aprovisionamiento de identidades y grupos secundarios (`/etc/passwd` y `/etc/shadow`), hardening de carpetas personales mediante permisos simbólicos/octales (705) y validación del principio de mínimo privilegio.*
 
 * **[Implementación de Servicios, Autenticación AAA y Control Granular RBAC: Cisco Packet Tracer](https://github.com/GonzaloGaBa/cisco-services-aaa-rbac-lab)** *Despliegue de gestión de identidades centralizada (IAM) con RADIUS sobre WPA2-Enterprise, servicios corporativos SMTP/POP3 y aplicación del principio de menor privilegio (Least Privilege) en FTP.*

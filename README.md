@@ -15,6 +15,8 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 
 ---
 ## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Configuración e Implementación de ACL Extendida Nombrada en Cisco IOS](https://github.com/GonzaloGaBa/cisco-extended-acl-implementation/tree/master)**: *Cisco IOS Filtrado granular de tráfico por protocolo y puerto (Capa 4), aplicación del principio de mínimo privilegio en interfaces entrantes y auditoría de seguridad a través de contadores de coincidencias (matches).*
+
 * **[Configuración y Verificación de ACLs Extendidas (Numeradas y Nombradas)](https://github.com/GonzaloGaBa/cisco-extended-acls-lab/tree/master)**: *Cisco IOS Filtrado granular de tráfico por protocolo y puerto (Capa 4), aplicación del principio de mínimo privilegio en interfaces entrantes y auditoría de seguridad a través de contadores de coincidencias (matches).*
 
 * **[Implementación y Verificación de ACL IPv4 Estándar Numeradas](https://github.com/GonzaloGaBa/cisco-ios-standard-numbered-acl)**: Cisco IOS *Restricción de tráfico IPv4 hacia servidores y segmentos LAN sensibles mediante listas de acceso numeradas, aplicación del criterio de ubicación estratégica (placement rule) en interfaces salientes y auditoría de eventos a través de contadores de coincidencias (matches).*

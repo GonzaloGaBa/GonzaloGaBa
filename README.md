@@ -15,6 +15,8 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 
 ---
 ## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Implementación y Verificación de ACL IPv4 Estándar Numeradas](https://github.com/GonzaloGaBa/cisco-ios-standard-numbered-acl)**: Cisco IOS *Restricción de tráfico IPv4 hacia servidores y segmentos LAN sensibles mediante listas de acceso numeradas, aplicación del criterio de ubicación estratégica (placement rule) en interfaces salientes y auditoría de eventos a través de contadores de coincidencias (matches).*
+
 * **[Implementación de ACL Estándar Nombrada y Control de Acceso Layer 3: Cisco IOS](https://github.com/GonzaloGaBa/cisco-ios-named-standard-acl/tree/master)** *Restricción de tráfico IPv4 hacia servidores críticos mediante listas de acceso nombradas, aplicación del principio de mínimo privilegio en interfaces salientes y auditoría de seguridad a través de contadores de coincidencias (matches).*
 
 * **[Implementación de Autenticación AAA con TACACS+ y RADIUS: Cisco IOS](https://github.com/GonzaloGaBa/cisco-ios-autenticacion-aaa-tacacs-radius)** *Despliegue de gestión de identidades centralizada (IAM) para administración de dispositivos de red, migración de contraseñas locales a servidores TACACS+/RADIUS y configuración de mecanismos de contingencia (fallback) para prevenir lockouts.*

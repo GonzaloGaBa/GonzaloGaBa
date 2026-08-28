@@ -15,6 +15,8 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 
 ---
 ## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Mitigación de Ataques DoS y DDoS mediante ACLs IPv6 Nominadas](https://github.com/GonzaloGaBa/cisco-ipv6-acl-dos-mitigation/tree/master)**: *Cisco IOS Mitigación de tráfico malicioso DoS (HTTP/HTTPS) y DDoS (ICMPv6) mediante filtrado estratégico cerca del origen y del destino, garantizando la disponibilidad de servicios críticos y la auditoría de eventos.*
+
 * **[Configuración e Implementación de ACL Extendida Nombrada en Cisco IOS](https://github.com/GonzaloGaBa/cisco-extended-acl-implementation/tree/master)**: *Cisco IOS Filtrado granular de tráfico por protocolo y puerto (Capa 4), aplicación del principio de mínimo privilegio en interfaces entrantes y auditoría de seguridad a través de contadores de coincidencias (matches).*
 
 * **[Configuración y Verificación de ACLs Extendidas (Numeradas y Nombradas)](https://github.com/GonzaloGaBa/cisco-extended-acls-lab/tree/master)**: *Cisco IOS Filtrado granular de tráfico por protocolo y puerto (Capa 4), aplicación del principio de mínimo privilegio en interfaces entrantes y auditoría de seguridad a través de contadores de coincidencias (matches).*

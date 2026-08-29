@@ -1,4 +1,4 @@
-<img width="596" height="590" alt="image" src="https://github.com/user-attachments/assets/1d608643-9732-4d8e-81bf-5df3745b4f30" /># Hi there! I'm Gonzalo Barrientos 👋
+# Hi there! I'm Gonzalo Barrientos 👋
 
 ### Cybersecurity Analyst | Infrastructure Hardening & Defensive Security
 

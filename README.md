@@ -1,4 +1,4 @@
-# Hi there! I'm Gonzalo Barrientos 👋
+<img width="596" height="590" alt="image" src="https://github.com/user-attachments/assets/1d608643-9732-4d8e-81bf-5df3745b4f30" /># Hi there! I'm Gonzalo Barrientos 👋
 
 ### Cybersecurity Analyst | Infrastructure Hardening & Defensive Security
 
@@ -15,6 +15,8 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 
 ---
 ## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Evaluación de Seguridad Cloud y Matriz de Responsabilidad Compartida](https://github.com/GonzaloGaBa/evaluacion-seguridad-nube-ecommerce/tree/master)**: *Cloud Security / PaaS* Análisis de arquitectura de migración a la nube para e-commerce global, definición de la matriz de responsabilidad compartida, evaluación de riesgos de seguridad (OWASP/DDoS) y diseño de mitigaciones alineadas a PCI-DSS y WAF.
+
 * **[Mitigación de Ataques DoS y DDoS mediante ACLs IPv6 Nominadas](https://github.com/GonzaloGaBa/cisco-ipv6-acl-dos-mitigation/tree/master)**: *Cisco IOS Mitigación de tráfico malicioso DoS (HTTP/HTTPS) y DDoS (ICMPv6) mediante filtrado estratégico cerca del origen y del destino, garantizando la disponibilidad de servicios críticos y la auditoría de eventos.*
 
 * **[Configuración e Implementación de ACL Extendida Nombrada en Cisco IOS](https://github.com/GonzaloGaBa/cisco-extended-acl-implementation/tree/master)**: *Cisco IOS Filtrado granular de tráfico por protocolo y puerto (Capa 4), aplicación del principio de mínimo privilegio en interfaces entrantes y auditoría de seguridad a través de contadores de coincidencias (matches).*

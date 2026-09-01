@@ -15,6 +15,8 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 
 ---
 ## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Implementación de Zone-Based Policy Firewall (ZPF) en Cisco IOS](https://github.com/GonzaloGaBa/cisco-zpf-firewall-lab/tree/master)**: *Network Security / Perimeter Hardening* Configuración de un firewall por zonas en Cisco IOS para inspección de estado (*Stateful Packet Inspection*), clasificación de tráfico mediante Class/Policy Maps y contención activa de tráfico no solicitado proveniente de redes no confiables.
+
 * **[Respuesta ante Incidentes en Tiempo Real y Contención con Snort e iptables](https://github.com/GonzaloGaBa/snort-ids-iptables-mitigation/tree/master):** *Incident Response / Blue Team Operations* Detección de tráfico malicioso en tiempo real con Snort NIDS, captura forense de artefactos de red (`.pcap`) mediante `tcpdump` y contención perimetral activa bloqueando vectores de descarga a través de reglas `iptables` en Mininet.
 
 * **[Clasificación y Triage de Alertas NIDS/SIEM](https://github.com/GonzaloGaBa/Clasificacion-y-Triage-de-Alertas/tree/master)**: *SOC Operations / Threat Intelligence* Triage y análisis contextual de 10 eventos de seguridad utilizando firmas Snort, mapeo de vulnerabilidades CVE/CVSS v3 y fuentes OSINT para clasificar Positivos Reales (TP) y Falsos Positivos (FP) en entornos Windows/Linux.

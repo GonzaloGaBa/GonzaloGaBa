@@ -15,6 +15,8 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 
 ---
 ## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Clasificación y Triage de Alertas NIDS/SIEM](https://github.com/GonzaloGaBa/Clasificacion-y-Triage-de-Alertas/tree/master)**: *SOC Operations / Threat Intelligence* Triage y análisis contextual de 10 eventos de seguridad utilizando firmas Snort, mapeo de vulnerabilidades CVE/CVSS v3 y fuentes OSINT para clasificar Positivos Reales (TP) y Falsos Positivos (FP) en entornos Windows/Linux.
+
 * **[Evaluación de Seguridad Cloud y Matriz de Responsabilidad Compartida](https://github.com/GonzaloGaBa/evaluacion-seguridad-nube-ecommerce/tree/master)**: *Cloud Security / PaaS* Análisis de arquitectura de migración a la nube para e-commerce global, definición de la matriz de responsabilidad compartida, evaluación de riesgos de seguridad (OWASP/DDoS) y diseño de mitigaciones alineadas a PCI-DSS y WAF.
 
 * **[Mitigación de Ataques DoS y DDoS mediante ACLs IPv6 Nominadas](https://github.com/GonzaloGaBa/cisco-ipv6-acl-dos-mitigation/tree/master)**: *Cisco IOS Mitigación de tráfico malicioso DoS (HTTP/HTTPS) y DDoS (ICMPv6) mediante filtrado estratégico cerca del origen y del destino, garantizando la disponibilidad de servicios críticos y la auditoría de eventos.*

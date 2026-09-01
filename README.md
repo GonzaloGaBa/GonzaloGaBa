@@ -15,6 +15,8 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 
 ---
 ## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Respuesta ante Incidentes en Tiempo Real y Contención con Snort e iptables](https://github.com/GonzaloGaBa/snort-ids-iptables-mitigation/tree/master):** *Incident Response / Blue Team Operations* Detección de tráfico malicioso en tiempo real con Snort NIDS, captura forense de artefactos de red (`.pcap`) mediante `tcpdump` y contención perimetral activa bloqueando vectores de descarga a través de reglas `iptables` en Mininet.
+
 * **[Clasificación y Triage de Alertas NIDS/SIEM](https://github.com/GonzaloGaBa/Clasificacion-y-Triage-de-Alertas/tree/master)**: *SOC Operations / Threat Intelligence* Triage y análisis contextual de 10 eventos de seguridad utilizando firmas Snort, mapeo de vulnerabilidades CVE/CVSS v3 y fuentes OSINT para clasificar Positivos Reales (TP) y Falsos Positivos (FP) en entornos Windows/Linux.
 
 * **[Evaluación de Seguridad Cloud y Matriz de Responsabilidad Compartida](https://github.com/GonzaloGaBa/evaluacion-seguridad-nube-ecommerce/tree/master)**: *Cloud Security / PaaS* Análisis de arquitectura de migración a la nube para e-commerce global, definición de la matriz de responsabilidad compartida, evaluación de riesgos de seguridad (OWASP/DDoS) y diseño de mitigaciones alineadas a PCI-DSS y WAF.

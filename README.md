@@ -15,6 +15,8 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 
 ---
 ## 🛡️ Proyectos Destacados de Ciberseguridad
+* **[Telemetría Centralizada de Red y Auditoría con Syslog, AAA y NetFlow](https://github.com/GonzaloGaBa/cisco-telemetria-syslog-aaa-netflow):** *SOC Operations / Blue Team / Telemetry* Centralización de logs de eventos (Syslog), auditoría de acceso de usuarios administrativos mediante AAA (TACACS+) y análisis de metadatos de tráfico con NetFlow en Cisco Packet Tracer para la detección y trazabilidad en entornos corporativos.
+
 * **[Monitoreo de Telemetría de Red y Análisis de Tráfico con Cisco NetFlow](https://github.com/GonzaloGaBa/cisco-netflow-traffic-analysis):** *Network Telemetry / SOC Operations* Configuración y análisis de flujo de metadatos mediante Cisco NetFlow en Packet Tracer, evaluando tuplas de 5 elementos (`5-tuple`) para inspección de tráfico ICMP, sesiones TCP bi-direccionales (`HTTP`) y resolución DNS (`UDP`) en un entorno corporativo.
 
 * **[Implementación de Zone-Based Policy Firewall (ZPF) en Cisco IOS](https://github.com/GonzaloGaBa/cisco-zpf-firewall-lab/tree/master)**: *Network Security / Perimeter Hardening* Configuración de un firewall por zonas en Cisco IOS para inspección de estado (*Stateful Packet Inspection*), clasificación de tráfico mediante Class/Policy Maps y contención activa de tráfico no solicitado proveniente de redes no confiables.

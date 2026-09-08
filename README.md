@@ -153,6 +153,6 @@ Selección de proyectos destacados donde aplico lógica avanzada, POO y manejo d
 ## 📬 Connect with Me
 
 * 💼 **LinkedIn:** [Gonzalo Barrientos](https://www.linkedin.com/in/gonzalogabarrientos/) 
-* 📧 **Email:** [Gonzalo Barrientos](gongabar@gmail.com)
+* 📧 **Email:** [gongabar@gmail.com](mailto:gongabar@gmail.com)
 
 

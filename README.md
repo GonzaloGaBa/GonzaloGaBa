@@ -50,7 +50,7 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
   * *Foco:* Operaciones de SOC, SIEM (Splunk / Chronicle), IDS (Suricata), Python, Wireshark, SQL, Linux y respuesta a incidentes (NIST SP 800-61).
 
 * 🌐 **Cisco Networking Academy — Cursos & Insignias Oficiales:**
-  * 📜 **[Seguridad de Terminales / Endpoint Security](https://drive.google.com/file/d/1yYCvIwlsWu1AEu6vdAnbFETxInn7YK1y/view?usp=sharing)** *(Agosto 2026)*
+  * 📜 **Seguridad de Terminales / Endpoint Security** *(En proceso)*
   * 📜 **[Dispositivos de Red y Configuración Inicial](https://drive.google.com/file/d/1yYCvIwlsWu1AEu6vdAnbFETxInn7YK1y/view?usp=sharing)** *(Junio 2026)*
   * 📜 **[Conceptos Básico de Redes / Networking Basics](https://drive.google.com/file/d/1LvpZ1vFG4zWrVwV2wrPZ_KXKAwL1o5Bb/view?usp=sharing)** *(Marzo 2026)*
   * 📜 **[Introducción a la Ciberseguridad](https://drive.google.com/file/d/1tFuHo0o_1VT9HYxfHBKASL7PVvU0F_6z/view?usp=sharing)** *(Febrero 2026)*
@@ -162,7 +162,7 @@ Selección de proyectos destacados donde aplico lógica avanzada, POO y manejo d
 
 ## 📬 Connect with Me
 
-* 💼 **LinkedIn:** [Gonzalo Barrientos](https://www.linkedin.com/in/gonzalogabarrientos/) *(Reemplazar con tu URL real)*
-* 📧 **Email:** [Gonzalo Barrientos](gongabar@gmail.com) *(Reemplazar con tu email real)*
+* 💼 **LinkedIn:** [Gonzalo Barrientos](https://www.linkedin.com/in/gonzalogabarrientos/) 
+* 📧 **Email:** [Gonzalo Barrientos](gongabar@gmail.com)
 
 

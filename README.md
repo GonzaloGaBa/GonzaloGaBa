@@ -1,8 +1,7 @@
 # Hi there! I'm Gonzalo Barrientos 👋
 
-### Cybersecurity Analyst | Infrastructure Hardening & Defensive Security
-
-Analista de Ciberseguridad, especializado en la protección proactiva de infraestructura, defensa activa (Blue Team) y administración segura de redes. Experiencia práctica en la auditoría de protocolos, implementación de controles criptográficos robustos y análisis de logs mediante plataformas SIEM/IDS. Cuento con una sólida formación técnica en lógica de programación y resolución de problemas bajo entornos operativos críticos.
+**IT & Network Specialist | Cybersecurity & Defensive Security Focus**  
+Profesional de Tecnologías de la Información con sólida base en lógica de programación (UTN), administración de redes (Cisco NetAcad) y seguridad defensiva. Experiencia práctica en configuración e inspección de infraestructura de red, hardening de sistemas (Linux/Windows), análisis de logs y protocolos. Enfocado en brindar soporte técnico avanzado, administración segura de sistemas y análisis de seguridad operacional.
 
 ---
 

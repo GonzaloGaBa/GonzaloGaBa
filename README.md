@@ -46,6 +46,9 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 ---
 ### 📜 Certifications & Cisco Credentials
 
+* 🎓 **Tecnicatura Universitaria en Programación** — Universidad Tecnológica Nacional (UTN) *(2022 – 2024)*
+  * *Formación:* Lógica de programación, Programación Orientada a Objetos (POO), estructuras de datos, gestión de bases de datos y desarrollo de sistemas.
+
 * 🛡️ **[Google Cybersecurity Professional Certificate](https://coursera.org/share/2b847e2cf1e40bb377e7d8babd81d0da)** — Google / Coursera
   * *Foco:* Operaciones de SOC, SIEM (Splunk / Chronicle), IDS (Suricata), Python, Wireshark, SQL, Linux y respuesta a incidentes (NIST SP 800-61).
 
@@ -65,7 +68,6 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 ## 🧪 Hands-On Labs & Portfolio Repositories (58 Repositories)
 
 Desplegá cada área técnica para ver el listado completo de laboratorios, enlaces directos a los repositorios y su correspondiente descripción:
-gio en interfaces entrantes y auditoría de seguridad.
 
 
 <details>
@@ -146,18 +148,6 @@ Selección de proyectos destacados donde aplico lógica avanzada, POO y manejo d
 * **[Gestión de Escáner (Excepciones)](https://github.com/GonzaloGaBa/PP_Escaner_BarrientosGonzalo_Con_Excepcion):** Implementación avanzada de manejo de errores y robustez de software.
 * **[Sistema SUBE](https://github.com/GonzaloGaBa/Parcial1Sube):** Lógica de transacciones y estados.
 
----
-
-### 📜 Education & Professional Credentials
-
-* 🎓 **Tecnicatura Universitaria en Programación** — Universidad Tecnológica Nacional (UTN) *(2022 – 2024)*
-  * *Formación:* Lógica de programación, Programación Orientada a Objetos (POO), estructuras de datos, gestión de bases de datos y desarrollo de sistemas.
-
-* 🛡️ **[Google Cybersecurity Professional Certificate](https://coursera.org/share/2b847e2cf1e40bb377e7d8babd81d0da)** — Google / Coursera
-  * *Foco:* Operaciones de SOC, SIEM (Splunk / Chronicle), IDS (Suricata), Python, Wireshark, SQL, Linux y respuesta a incidentes (NIST SP 800-61).
-
-* 🌐 **Especialización en Redes y Ciberseguridad** — Cisco Networking Academy
-  * *Formación:* Hardening de infraestructura Cisco IOS, listas de control de acceso (ACLs), seguridad en terminales, análisis de tráfico e inspección de protocolos.
 ---
 
 ## 📬 Connect with Me

@@ -8,10 +8,75 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 
 ## 🛡️ Core Competencies & Technical Stack
 
-* **SecOps & Monitoring:** SIEM (Google Chronicle, Splunk), IDS/IPS (Suricata), Log Auditing, Incident Response.
-* **Network Security:** Cisco IOS,IPv4 ACL Configuration & Troubleshooting, Traffic Analysis (Wireshark, tcpdump), Cryptographic Hardening (SSHv2, RSA), TCP/IP.
-* **Automation & Dev:** Python (Security Automation / Access Lists), SQL (Log Querying), Linux/Bash, C#.
-* **Frameworks & Standards:** NIST Cybersecurity Framework (CSF), NIST SP 800-61 (Incident Handling).---
+### 🎯 Core Security Domains
+* **Security Operations & Incident Response:** Triage de alertas, investigación de amenazas (Threat Hunting), análisis de malware/procesos en Windows y Linux.
+* **Network Security & Hardening:** Análisis de capturas de tráfico (PCAP), configuración de reglas de firewall/ACLs, hardening de switches y routers Cisco.
+* **Identity & Access Management (IAM):** Gestión de usuarios, grupos y permisos en entornos Linux y Windows.
+* **Threat Intelligence & Audit:** Mapeo de indicadores de compromiso (IoC), auditoría de logs del sistema e inspección de comportamiento anómalo.
+
+---
+
+### 🧰 Technical Stack & Tooling
+
+**SIEM & Log Analysis**
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Google Chronicle](https://img.shields.io/badge/Google%20Chronicle-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Windows Event Viewer](https://img.shields.io/badge/Windows%20Sysmon-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+**Network & Traffic Analysis**
+![Wireshark](https://img.shields.io/badge/Wireshark-167EC6?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B24?style=for-the-badge&logo=suricata&logoColor=white)
+
+**Endpoint & System Inspection**
+![Linux](https://img.shields.io/badge/Linux%20CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Sysinternals](https://img.shields.io/badge/Sysinternals%20Suite-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+**Scripting & Automation**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Security Frameworks & Standards**
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-000000?style=for-the-badge&logo=mitre&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST%20Framework-005A9C?style=for-the-badge&logo=nist&logoColor=white)
+
+---
+### 📜 Certifications & Cisco Credentials
+
+* 🛡️ **[Google Cybersecurity Professional Certificate](https://coursera.org/share/2b847e2cf1e40bb377e7d8babd81d0da)** — Google / Coursera
+  * *Foco:* Operaciones de SOC, SIEM (Splunk / Chronicle), IDS (Suricata), Python, Wireshark, SQL, Linux y respuesta a incidentes (NIST SP 800-61).
+
+* 🌐 **Cisco Networking Academy — Cursos & Insignias Oficiales:**
+  * 📜 **[Seguridad de Terminales / Endpoint Security](https://drive.google.com/file/d/1yYCvIwlsWu1AEu6vdAnbFETxInn7YK1y/view?usp=sharing)** *(Agosto 2026)*
+  * 📜 **[Dispositivos de Red y Configuración Inicial](https://drive.google.com/file/d/1yYCvIwlsWu1AEu6vdAnbFETxInn7YK1y/view?usp=sharing)** *(Junio 2026)*
+  * 📜 **[Conceptos Básico de Redes / Networking Basics](https://drive.google.com/file/d/1LvpZ1vFG4zWrVwV2wrPZ_KXKAwL1o5Bb/view?usp=sharing)** *(Marzo 2026)*
+  * 📜 **[Introducción a la Ciberseguridad](https://drive.google.com/file/d/1tFuHo0o_1VT9HYxfHBKASL7PVvU0F_6z/view?usp=sharing)** *(Febrero 2026)*
+  * 📜 **[Introducción a Cisco Packet Tracer](https://drive.google.com/file/d/1tR6uwaEZ7evq0s_4svmxS2eB9vyFJUBH/view?usp=sharing)** *(Febrero 2026)*
+
+* 🎓 **Módulos Técnicos y Logros Completados (Cisco NetAcad):**
+  * **Seguridad & Defensa:** Defensa de la red, Conceptos básicos de seguridad de red, Análisis de amenazas, Salvaguardias del sistema y Administración de ciberseguridad.
+  * **Infraestructura & Redes:** Configuración Básica de Cisco, Servicios Básicos de Transporte, Acceso a la Red, Diseño Jerárquico y Sistemas Numéricos, Protocolos de Red e IP.
+
+---
+
+### 🛠️ Hands-On Laboratories & Portfolio Index (58 Repositories)
+
+Todos mis proyectos y laboratorios prácticos están organizados por dominio técnico:
+
+* 🌐 **Network Security & Infrastructure:** Laboratorios de hardening en Cisco IOS, ACLs, modelos OSI/TCP-IP, switches y enrutamiento. 
+  * 🔗 [Ver repositorios de Redes y Hardening](https://github.com/GonzaloGaBa?tab=repositories&q=cisco+OR+network+OR+acl)
+
+* 🔍 **Traffic Analysis & Threat Hunting:** Investigaciones sobre archivos `.pcap`, inspección de protocolos con Wireshark, tcpdump y reglas de detección.
+  * 🔗 [Ver repositorios de Análisis de Tráfico](https://github.com/GonzaloGaBa?tab=repositories&q=wireshark+OR+pcap+OR+traffic)
+
+* 💻 **Endpoint Security & System Audit:** Análisis de procesos en Windows/Linux, uso de Sysinternals, investigación de persistencia y gestión de identidades (IAM).
+  * 🔗 [Ver repositorios de Endpoint y Sistemas](https://github.com/GonzaloGaBa?tab=repositories&q=sysinternals+OR+linux+OR+iam)
+
+* 🐍 **Security Automation & Scripting:** Scripts en Python, Bash y consultas SQL para automatización de auditorías y análisis de logs.
+  * 🔗 [Ver repositorios de Scripting](https://github.com/GonzaloGaBa?tab=repositories&q=python+OR+bash+OR+sql)
 
 ---
 ## 🛡️ Proyectos Destacados de Ciberseguridad

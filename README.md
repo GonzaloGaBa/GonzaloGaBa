@@ -62,89 +62,77 @@ Analista de Ciberseguridad, especializado en la protección proactiva de infraes
 
 ---
 
-### 🛠️ Hands-On Laboratories & Portfolio (58 Repositories)
+## 🧪 Hands-On Labs & Portfolio Repositories (58 Repositories)
 
 Desplegá cada área técnica para ver el listado completo de laboratorios, enlaces directos a los repositorios y su correspondiente descripción:
+gio en interfaces entrantes y auditoría de seguridad.
+
 
 <details>
-<summary>🌐 <b>Network Security & Infrastructure</b> (Cisco IOS, ACLs, Hardening, Firewalls)</summary>
-<br>
+<summary>📂 <b>Network Security & Infrastructure Hardening (Cisco IOS)</b></summary>
 
-* **[Telemetría Centralizada de Red y Auditoría con Syslog, AAA y NetFlow](https://github.com/GonzaloGaBa/cisco-telemetria-syslog-aaa-netflow):** *SOC Operations / Blue Team / Telemetry* Centralización de logs de eventos (Syslog), auditoría de acceso mediante AAA (TACACS+) y análisis de metadatos de tráfico con NetFlow en Cisco Packet Tracer.
-* **[Monitoreo de Telemetría de Red y Análisis de Tráfico con Cisco NetFlow](https://github.com/GonzaloGaBa/Network-Telemetry-Monitoring-NetFlow):** *Network Telemetry / SOC Operations* Configuración y análisis de flujo de metadatos mediante Cisco NetFlow evaluando tuplas de 5 elementos para inspección de tráfico ICMP, HTTP y DNS.
-* **[Implementación de Zone-Based Policy Firewall (ZPF) en Cisco IOS](https://github.com/GonzaloGaBa/Cisco-Zone-Based-Policy-Firewall-ZPF):** *Network Security / Perimeter Hardening* Configuración de un firewall por zonas en Cisco IOS para inspección de estado (*Stateful Packet Inspection*) y clasificación de tráfico mediante Class/Policy Maps.
-* **[Mitigación de Ataques DoS y DDoS mediante ACLs IPv6 Nominadas](https://github.com/GonzaloGaBa/cisco-ipv6-acl-dos-mitigation):** *Cisco IOS* Mitigación de tráfico malicioso DoS (HTTP/HTTPS) y DDoS (ICMPv6) mediante filtrado estratégico cerca del origen y del destino.
-* **[Configuración e Implementación de ACL Extendida Nombrada en Cisco IOS](https://github.com/GonzaloGaBa/cisco-extended-acl-implementation):** *Cisco IOS* Filtrado granular de tráfico por protocolo y puerto (Capa 4), aplicación del principio de mínimo privilegio en interfaces entrantes y auditoría de seguridad.
-* **[Configuración y Verificación de ACLs Extendidas (Numeradas y Nombradas)](https://github.com/GonzaloGaBa/cisco-extended-acls-lab):** *Cisco IOS* Filtrado granular de tráfico por protocolo y puerto (Capa 4) y aplicación de mínimos privilegios.
-* **[Implementación y Verificación de ACL IPv4 Estándar Numeradas](https://github.com/GonzaloGaBa/Cisco-Standard-Numbered-IPv4-ACL):** *Cisco IOS* Restricción de tráfico IPv4 hacia servidores y segmentos LAN sensibles mediante listas de acceso numeradas.
-* **[Implementación de ACL Estándar Nombrada y Control de Acceso Layer 3](https://github.com/GonzaloGaBa/Cisco-Standard-Named-ACL-L3):** *Cisco IOS* Restricción de tráfico IPv4 hacia servidores críticos mediante listas de acceso nombradas.
-* **[Análisis y Remoción de ACL IPv4 Estándar](https://github.com/GonzaloGaBa/Cisco-IPv4-Standard-ACL-Removal):** Auditoría, diagnóstico de tráfico ICMP bloqueado y remoción segura de reglas de filtrado en entorno Cisco IOS.
-* **[Administración Segura de Redes: Mitigación de Telnet mediante Hardening SSH](https://github.com/GonzaloGaBa/Cisco-SSH-Hardening-Telnet-Mitigation):** Implementación de controles de seguridad y mitigación de Telnet en infraestructura Cisco IOS.
-* **[Aseguramiento Inalámbrico y Gestión Centralizada IoT: Cisco Packet Tracer](https://github.com/GonzaloGaBa/IoT-Wireless-Security-PacketTracer):** Implementación de bastionado en Capa 2 mediante filtrado MAC inalámbrico (*Whitelist*) y orquestación en Capa 7.
-* **[Hardening y Segmentación de Redes Inalámbricas SOHO: Cisco Packet Tracer](https://github.com/GonzaloGaBa/SOHO-Wireless-Hardening-PacketTracer):** Fortalecimiento perimetral en router SOHO mediante credenciales robustas, cifrado WPA2/AES y aislamiento de clientes (*Guest Isolation*).
-
+* 🛠️ **[cisco-telemetria-syslog-aaa-netflow](https://github.com/GonzaloGaBa/cisco-telemetria-syslog-aaa-netflow)**: Laboratorio de telemetría y visibilidad de red centralizada utilizando Syslog, AAA Accounting (TACACS+) y NetFlow en Cisco Packet Tracer.
+* 📊 **[cisco-netflow-traffic-analysis](https://github.com/GonzaloGaBa/cisco-netflow-traffic-analysis)**: Análisis de telemetría de red con Cisco NetFlow en Packet Tracer: captura y evaluación de metadatos ICMP, TCP (HTTP) y UDP (DNS) para monitoreo SOC.
+* 🛡️ **[cisco-zpf-firewall-lab](https://github.com/GonzaloGaBa/cisco-zpf-firewall-lab)**: Implementación de Zone-Based Policy Firewall (ZPF) en Cisco IOS para inspección de estado (SPI) y hardening de perímetro en Packet Tracer.
+* 🛡️ **[cisco-ipv6-acl-dos-mitigation](https://github.com/GonzaloGaBa/cisco-ipv6-acl-dos-mitigation)**: Implementación y verificación de ACLs IPv6 nominadas en Cisco IOS para la mitigación de ataques DoS (HTTP/HTTPS) y DDoS (ICMPv6) en Packet Tracer.
+* 🔒 **[cisco-extended-acl-implementation](https://github.com/GonzaloGaBa/cisco-extended-acl-implementation)**: Configuración e implementación de ACLs extendidas y nombradas en Cisco IOS para filtrado L3/L4 y endurecimiento de red.
+* 🌐 **[cisco-extended-acls-lab](https://github.com/GonzaloGaBa/cisco-extended-acls-lab)**: Configuración y verificación de ACLs extendidas en Cisco IOS para el filtrado de tráfico por puerto y protocolo (HTTP, FTP, ICMP).
+* 📑 **[cisco-ios-standard-numbered-acl](https://github.com/GonzaloGaBa/cisco-ios-standard-numbered-acl)**: Configuración, implementación y verificación de ACL IPv4 estándar numeradas en Cisco IOS para control de tráfico Layer 3 y auditoría de matches.
+* 🏷️ **[cisco-ios-named-standard-acl](https://github.com/GonzaloGaBa/cisco-ios-named-standard-acl)**: Implementación y verificación de una ACL Estándar Nombrada en Cisco IOS para restringir accesos a servidores críticos.
+* 🔑 **[cisco-ios-autenticacion-aaa-tacacs-radius](https://github.com/GonzaloGaBa/cisco-ios-autenticacion-aaa-tacacs-radius)**: Implementación de autenticación centralizada AAA (TACACS+ y RADIUS) con mecanismo de contingencia local en routers Cisco.
+* ⚙️ **[cisco-services-aaa-rbac-lab](https://github.com/GonzaloGaBa/cisco-services-aaa-rbac-lab)**: Configuración de servicios de infraestructura, autenticación centralizada AAA/RADIUS (WPA2-Enterprise) y control RBAC en FTP.
+* 📡 **[IoT-Wireless-Hardening-and-Centralized-Management](https://github.com/GonzaloGaBa/IoT-Wireless-Hardening-and-Centralized-Management)**: Aseguramiento inalámbrico (Capa 2 MAC Filtering) y monitoreo centralizado de dispositivos IoT (Capa 7).
+* 📶 **[soho-wireless-hardening](https://github.com/GonzaloGaBa/soho-wireless-hardening)**: Hardening y segmentación de una red inalámbrica SOHO. Implementación de cifrado WPA2/AES, Guest Isolation y mitigación de acceso remoto.
+* 🔐 **[cisco-file-and-data-encryption](https://github.com/GonzaloGaBa/cisco-file-and-data-encryption)**: Criptografía simétrica con OpenSSL (AES-256) y transferencia segura de archivos vía FTP en Cisco Packet Tracer.
+* 🚦 **[cisco-acl-standard-analysis](https://github.com/GonzaloGaBa/cisco-acl-standard-analysis)**: Análisis, auditoría y modificación de Listas de Control de Acceso (ACL Standard IPv4) en infraestructura Cisco IOS.
+* 📡 **[auditoria-trafico-tcp-udp-cisco](https://github.com/GonzaloGaBa/auditoria-trafico-tcp-udp-cisco)**: Auditoría de protocolos de capa de transporte, inspección del saludo TCP (Handshake) y mapeo de sockets lógicos.
+* 🔁 **[analisis-trafico-arp-cisco](https://github.com/GonzaloGaBa/analisis-trafico-arp-cisco)**: Inspección del protocolo ARP y análisis de direccionamiento dinámico (Capa 2 y Capa 3).
+* 🔒 **[cisco-ios-ssh-hardening](https://github.com/GonzaloGaBa/cisco-ios-ssh-hardening)**: Implementación de controles de seguridad y mitigación de Telnet en infraestructura Cisco IOS.
+* 🛡️ **[cisco-cyberops-labs](https://github.com/GonzaloGaBa/cisco-cyberops-labs)**: Laboratorios prácticos del programa Cisco CyberOps Associate enfocados en seguridad de red y operaciones SOC.
 </details>
 
 <details>
-<summary>🔍 <b>Traffic Analysis, SIEM & Threat Hunting</b> (Wireshark, Snort, PCAP, Logs)</summary>
-<br>
+<summary>📂 <b>Incident Response, Threat Intelligence & Malware Analysis</b></summary>
 
-* **[Respuesta ante Incidentes en Tiempo Real y Contención con Snort e iptables](https://github.com/GonzaloGaBa/Snort-NIDS-RealTime-Incident-Response):** *Incident Response / Blue Team Operations* Detección de tráfico malicioso en tiempo real con Snort NIDS, captura forense de artefactos de red (`.pcap`) mediante `tcpdump` y contención perimetral activa.
-* **[Clasificación y Triage de Alertas NIDS/SIEM](https://github.com/GonzaloGaBa/NIDS-SIEM-Alert-Triage-Classification):** *SOC Operations / Threat Intelligence* Triage y análisis contextual de 10 eventos de seguridad utilizando firmas Snort, mapeo de vulnerabilidades CVE/CVSS v3 y fuentes OSINT para clasificar Positivos Reales (TP) y Falsos Positivos (FP).
-* **[Análisis de Tráfico de Red: Inspección del Protocolo ARP](https://github.com/GonzaloGaBa/ARP-Protocol-Inspection-PacketTracer):** Intercepción de PDUs y análisis de direccionamiento dinámico en entorno local mediante Cisco Packet Tracer.
-* **[Análisis de Protocolos de Transporte: Auditoría TCP/UDP](https://github.com/GonzaloGaBa/TCP-UDP-Transport-Protocol-Audit):** Evaluación de flujo de capas de transporte, inspección de *Handshake* de 3 vías y mapeo de puertos mediante Cisco Packet Tracer.
-* **[Análisis de Incidente: Network Security (SYN Flood)](https://github.com/GonzaloGaBa/SYN-Flood-Network-Security-Incident-Analysis):** Análisis técnico de un ataque DoS contra un servidor web utilizando logs de red y metodología NIST.
-
+* 🚨 **[snort-ids-iptables-mitigation](https://github.com/GonzaloGaBa/snort-ids-iptables-mitigation)**: Simulación de Incident Response: detección de malware con Snort NIDS, captura forense (tcpdump) y contención con iptables en Mininet.
+* 🔍 **[Clasificacion-y-Triage-de-Alertas](https://github.com/GonzaloGaBa/Clasificacion-y-Triage-de-Alertas)**: Triage y análisis contextual de alertas NIDS/SIEM con reglas Snort, CVE/CVSS v3 y fuentes OSINT para clasificar TP/FP.
+* 🦠 **[emotet-maldoc-analysis](https://github.com/GonzaloGaBa/emotet-maldoc-analysis)**: Análisis estático y dinámico de documento malicioso con Emotet utilizando VirusTotal, ANY.RUN y desofuscación de payload en Linux.
+* 🚨 **[Analisis-Incidente-Network-Security](https://github.com/GonzaloGaBa/Analisis-Incidente-Network-Security)**: Análisis técnico y respuesta ante incidentes (SYN Flood) utilizando metodología NIST y revisión de logs TCP/IP.
+* 📓 **[cybersecurity-lab-journal](https://github.com/GonzaloGaBa/cybersecurity-lab-journal)**: Documentación técnica de laboratorios prácticos, análisis de logs y resolución de desafíos Blue Team / SOC.
 </details>
 
 <details>
-<summary>💻 <b>Endpoint Security, IAM & System Audit</b> (Linux, Windows, Sysinternals, IAM)</summary>
-<br>
+<summary>📂 <b>Linux Systems Administration & System Hardening</b></summary>
 
-* **[Implementación de Autenticación AAA con TACACS+ y RADIUS: Cisco IOS](https://github.com/GonzaloGaBa/Cisco-AAA-TACACS-RADIUS-Authentication):** Despliegue de gestión de identidades centralizada (IAM) para administración de dispositivos de red, migración de contraseñas locales y configuración de mecanismos de contingencia.
-* **[Administración de Usuarios y Control de Accesos POSIX: Linux CLI](https://github.com/GonzaloGaBa/Linux-POSIX-User-Management-Access-Control):** Aprovisionamiento de identidades y grupos secundarios (`/etc/passwd` y `/etc/shadow`), hardening de carpetas personales mediante permisos simbólicos/octales y validación de mínimos privilegios.
-* **[Implementación de Servicios, Autenticación AAA y Control Granular RBAC: Cisco Packet Tracer](https://github.com/GonzaloGaBa/PacketTracer-AAA-RADIUS-RBAC-Services):** Despliegue de gestión de identidades centralizada (IAM) con RADIUS sobre WPA2-Enterprise y servicios corporativos SMTP/POP3/FTP.
-* **[Investigación de Procesos y Registro: Sysinternals Process Explorer](https://github.com/GonzaloGaBa/Sysinternals-Process-Explorer-Investigation):** Análisis de jerarquía de procesos (padre-hijo), verificación de reputación en tiempo real con VirusTotal e inspección de persistencia en el Registro.
-* **[Análisis Estático y Dinámico de Malware: Emotet Maldoc](https://github.com/GonzaloGaBa/Emotet-Maldoc-Static-Dynamic-Analysis):** Investigación SOC de documento Word malicioso mediante VirusTotal, ejecución en sandbox (ANY.RUN), desofuscación de scripts PowerShell Base64/UTF-16LE en Linux CLI y extracción de IoCs.
-* **[Auditoría y Recuperación de Contraseñas en Linux: John the Ripper](https://github.com/GonzaloGaBa/Linux-Password-Audit-JohnTheRipper):** Auditoría offline de credenciales mediante *unshadowing*, cracking por diccionario con reglas y mitigación de riesgos aplicando políticas de contraseñas robustas.
-* **[Auditoría de Seguridad y Fortalecimiento en Linux: Lynis & UFW](https://github.com/GonzaloGaBa/Linux-Security-Audit-Lynis-UFW):** Auditoría de vulnerabilidades con Lynis, resolución de errores de firma GPG en repositorios y fortalecimiento perimetral con UFW.
-* **[Configuración de Funciones de Seguridad en Windows y Linux](https://github.com/GonzaloGaBa/Windows-Linux-Security-Features-Configuration):** Hardening de cuentas y contraseñas (`secpol.msc`), auditoría de inicios de sesión, control de tráfico ICMP en Windows Defender Firewall y análisis de amenazas con `chkrootkit`.
-* **[Administración de Sistemas de Archivos y Permisos POSIX en Linux](https://github.com/GonzaloGaBa/Linux-POSIX-Filesystem-Permissions):** Montaje manual de dispositivos de bloque, resolución de errores de acceso (`Permission Denied`) mediante `chmod`/`chown` y análisis de persistencia.
-* **[Análisis y Monitoreo de Logs: Linux Syslog & Nginx](https://github.com/GonzaloGaBa/Linux-Syslog-Nginx-Log-Analysis):** Auditoría de eventos de autenticación (`auth.log`), monitoreo HTTP en tiempo real con `tail -f` y filtrado de logs binarios mediante `journalctl`.
-* **[Auditoría de Servicios Linux y Banner Grabbing TCP](https://github.com/GonzaloGaBa/Linux-Services-Audit-Banner-Grabbing):** Inspección de procesos en segundo plano (`ps`), correlación de sockets activos y PIDs con `netstat` y *fingerprinting* de servicios HTTP/SSH mediante Telnet.
-* **[Auditoría de Red y Reconocimiento con Nmap](https://github.com/GonzaloGaBa/Nmap-Network-Audit-Reconnaissance):** Escaneo de puertos TCP/UDP, *fingerprinting* de versiones y detección de malas configuraciones (FTP Anónimo) mediante scripts NSE.
-* **[Fundamentos de Linux Shell & File Management](https://github.com/GonzaloGaBa/Linux-Shell-File-Management-Basics):** Navegación en el árbol de directorios, manipulación de archivos y directorios, redirección de flujos de salida (I/O) y auditoría de archivos ocultos.
-* **[Administración y Edición en Linux CLI: Archivos de Configuración y Nginx](https://github.com/GonzaloGaBa/Linux-CLI-ConfigFile-Nginx-Administration):** Inspección de archivos ocultos (`.bashrc`), personalización de entorno Bash (`PS1`) y reconfiguración de sockets web en Nginx.
-* **[Monitoreo de Servicios y Telemetría: Windows PerfMon & Event Viewer](https://github.com/GonzaloGaBa/Windows-PerfMon-EventViewer-Telemetry):** Gestión de servicios de red, auditoría de cambios en configuración (Event ID 7040) y exportación de telemetría de memoria en CSV.
-* **[Monitoreo de Procesos y Recursos: Windows Task Manager & Resource Monitor](https://github.com/GonzaloGaBa/Windows-TaskManager-ResMon-Process-Monitoring):** Análisis de jerarquía de ejecuciones, auditoría de servicios, métricas de red en tiempo real y correlación de PIDs.
-* **[Administración e Inspección de Endpoints: Windows PowerShell](https://github.com/GonzaloGaBa/Windows-PowerShell-Endpoint-Administration):** Mapeo de cmdlets y aliases, inspección de tablas de ruteo IPv4 y correlación de sockets activos con PID mediante `netstat`.
-* **[Gestión de Cuentas y Control de Acceso: Usuarios Locales y Permisos NTFS](https://github.com/GonzaloGaBa/Windows-User-Management-NTFS-Permissions):** Administración del ciclo de vida de usuarios, auditoría de grupos en CLI, escalación controlada de privilegios y verificación de aislamiento de perfiles.
-
+* 👤 **[gestion-usuarios-permisos-posix-linux](https://github.com/GonzaloGaBa/gestion-usuarios-permisos-posix-linux)**: Administración de usuarios, grupos y control de accesos POSIX (notación simbólica y octal) aplicando el Principio de Mínimo Privilegio.
+* 🔑 **[verificacion-integridad-hashes](https://github.com/GonzaloGaBa/verificacion-integridad-hashes)**: Análisis de integridad de archivos y detección de tamper de datos con MD5 y HMAC-SHA256 en Linux.
+* 🔓 **[recuperacion-contrasenas-linux-john-the-ripper](https://github.com/GonzaloGaBa/recuperacion-contrasenas-linux-john-the-ripper)**: Auditoría offline y recuperación de contraseñas en Linux usando John the Ripper y unshadowing.
+* ⚙️ **[linux-system-hardening-lynis](https://github.com/GonzaloGaBa/linux-system-hardening-lynis)**: Auditoría de seguridad y System Hardening en Ubuntu usando Lynis, remediación de parches y UFW.
+* 📁 **[linux-filesystem-permissions-lab](https://github.com/GonzaloGaBa/linux-filesystem-permissions-lab)**: Administración del sistema de archivos, montaje de unidades, permisos POSIX y enlaces simbólicos/rígidos.
+* 📜 **[linux-log-analysis-nginx-monitoring](https://github.com/GonzaloGaBa/linux-log-analysis-nginx-monitoring)**: Monitoreo en tiempo real de logs en Linux y Nginx utilizando tail y journalctl para investigación SOC L1.
+* 🌐 **[linux-services-banner-grabbing](https://github.com/GonzaloGaBa/linux-services-banner-grabbing)**: Auditoría de servicios en Linux, correlación de sockets/PIDs con netstat/ps y Banner Grabbing con Telnet.
+* 🔎 **[nmap-port-scanning-audit](https://github.com/GonzaloGaBa/nmap-port-scanning-audit)**: Auditoría de red y detección de vulnerabilidades con Nmap (TCP/UDP, Banner Grabbing y NSE).
+* 🐚 **[linux-shell-file-management](https://github.com/GonzaloGaBa/linux-shell-file-management)**: Fundamentos de Linux Bash: navegación del sistema de archivos, redirección I/O y manipulación de archivos.
+* 🐧 **[cyberops-linux-cli-text-editing](https://github.com/GonzaloGaBa/cyberops-linux-cli-text-editing)**: Administración de Linux CLI, edición de archivos de configuración (.bashrc, /etc/nginx) y despliegue web.
 </details>
 
 <details>
-<summary>🐍 <b>Security Automation, Cloud & Governance</b> (Python, SQL, Cloud, NIST)</summary>
-<br>
+<summary>📂 <b>Windows Security, IAM & Endpoint Monitoring</b></summary>
 
-* **[Evaluación de Seguridad Cloud y Matriz de Responsabilidad Compartida](https://github.com/GonzaloGaBa/Cloud-Security-Assessment-Shared-Responsibility):** *Cloud Security / PaaS* Análisis de arquitectura de migración a la nube para e-commerce global, definición de matriz de responsabilidad compartida, evaluación de riesgos (OWASP/DDoS) y diseño de mitigaciones (PCI-DSS / WAF).
-* **[Evaluación de Riesgos y Gestión de Activos: Athena Inc.](https://github.com/GonzaloGaBa/Athena-Inc-Risk-Assessment-Asset-Management):** Análisis de riesgos corporativos, clasificación de activos críticos, identificación de vectores de ataque y matriz de mitigación para entornos híbridos y BYOD.
-* **[Exploración de Cifrado de Archivos y Datos en Tránsito: OpenSSL & FTP](https://github.com/GonzaloGaBa/OpenSSL-FTP-Encryption-Data-In-Transit):** Protección de datos en reposo (AES-256-CBC) y en tránsito, descifrado de credenciales con OpenSSL en Linux y transferencia segura en servidores FTP.
-* **[Verificación de Integridad de Archivos y Respuesta a Incidentes: MD5 & HMAC](https://github.com/GonzaloGaBa/File-Integrity-Verification-MD5-HMAC):** Auditoría de datos en servidor FTP mediante líneas base MD5, detección de alteración no autorizada (*data tampering*) y validación criptográfica con HMAC-SHA256.
-* **[Caso de Estudio: Mitigación de Vulnerabilidades en Terminales y Soluciones EDR/EPP](https://github.com/GonzaloGaBa/EDR-EPP-Endpoint-Vulnerabilities-Mitigation):** Evaluación de riesgos y mitigación en entornos SCADA/OT mediante Modelo Purdue, hardening de USB (GPO), aislamiento BYOD con NAC e integración de EDR Cloud-Native (Cisco Secure Endpoint).
-* **[Auditoría de Seguridad: NIST Cybersecurity Framework](https://github.com/GonzaloGaBa/NIST-CSF-Security-Audit-Gap-Analysis):** Auditoría integral y análisis de brechas (*Gap Analysis*) para una organización, aplicando controles del framework NIST.
-
+* 💻 **[mitigacion-seguridad-terminales-edr](https://github.com/GonzaloGaBa/mitigacion-seguridad-terminales-edr)**: Caso de estudio sobre mitigación de vulnerabilidades en terminales (SCADA/OT) y evaluación de soluciones EDR/EPP en la nube.
+* 🛡️ **[os-security-hardening-lab](https://github.com/GonzaloGaBa/os-security-hardening-lab)**: Hardening en Windows y Linux: Directivas de seguridad local, bloqueo de cuentas, reglas de firewall y chkrootkit.
+* 🪟 **[windows-services-monitoring-telemetry](https://github.com/GonzaloGaBa/windows-services-monitoring-telemetry)**: Monitoreo, auditoría de eventos (Event ID 7040) y telemetría en Windows (perfmon, eventvwr, services.msc).
+* 📊 **[monitoreo-procesos-windows-taskmgr](https://github.com/GonzaloGaBa/monitoreo-procesos-windows-taskmgr)**: Análisis de procesos, servicios y tráfico de red en Windows mediante Task Manager y Resource Monitor.
+* 🔐 **[windows-user-management-ntfs-lab](https://github.com/GonzaloGaBa/windows-user-management-ntfs-lab)**: Gestión de usuarios locales, auditoría de permisos NTFS y control de acceso (IAM) en Windows.
+* 🔬 **[windows-process-investigation-sysinternals](https://github.com/GonzaloGaBa/windows-process-investigation-sysinternals)**: Inspección de procesos, integración con VirusTotal y persistencia en el Registro con Sysinternals Process Explorer.
 </details>
 
 <details>
-<summary>💻 <b>Desarrollo y Programación (UTN)</b></summary>
-<br>
+<summary>📂 <b>GRC, Cloud Security & Risk Assessment</b></summary>
 
-* **[Sistema de Incendios](https://github.com/GonzaloGaBa/Sistema-de-Incendios):** Simulación de sistemas de detección y respuesta en C#.
-* **[Tetris Rap](https://github.com/GonzaloGaBa/Tetris-Rap):** Desarrollo de lógica de juego y manejo de interfaces.
-* **[Sistema de Montacargas](https://github.com/GonzaloGaBa/Sistema-de-Montacargas):** Programación orientada a objetos aplicada a sistemas de control.
-* **[Gestión de Escáner (Excepciones)](https://github.com/GonzaloGaBa/Gestion-de-Escaner-Excepciones):** Implementación avanzada de manejo de errores y robustez de software.
-* **[Sistema SUBE](https://github.com/GonzaloGaBa/Sistema-SUBE):** Lógica de transacciones y estados.
-
+* ☁️ **[evaluacion-seguridad-nube-ecommerce](https://github.com/GonzaloGaBa/evaluacion-seguridad-nube-ecommerce)**: Matriz de responsabilidad compartida y evaluación de riesgos de seguridad para migración a la nube en e-commerce.
+* 📋 **[evaluacion-riesgos-athena](https://github.com/GonzaloGaBa/evaluacion-riesgos-athena)**: Evaluación de riesgos corporativos (Security Risk Assessment), clasificación de activos y matriz de mitigación para entornos híbridos y BYOD.
+* 📋 **[Security-Audit-NIST-Framework](https://github.com/GonzaloGaBa/Security-Audit-NIST-Framework)**: Auditoría de seguridad integral y análisis de riesgos aplicando el NIST Cybersecurity Framework (CSF).
 </details>
 
 ---
@@ -172,9 +160,9 @@ Selección de proyectos destacados donde aplico lógica avanzada, POO y manejo d
   * *Formación:* Hardening de infraestructura Cisco IOS, listas de control de acceso (ACLs), seguridad en terminales, análisis de tráfico e inspección de protocolos.
 ---
 
-## 🤝 Connect with Me
-¿Te interesa conversar sobre operaciones de Blue Team, defensa de infraestructura o automatización en seguridad?
+## 📬 Connect with Me
 
-* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/gonzalogabarrientos/)
-* **Email:** gongabar@gmail.com 
+* 💼 **LinkedIn:** [Gonzalo Barrientos](https://www.linkedin.com/in/gonzalogabarrientos/) *(Reemplazar con tu URL real)*
+* 📧 **Email:** [Gonzalo Barrientos](gongabar@gmail.com) *(Reemplazar con tu email real)*
+
 

@@ -95,6 +95,7 @@ Desplegá cada área técnica para ver el listado completo de laboratorios, enla
 <details>
 <summary>📂 <b>Incident Response, Threat Intelligence & Malware Analysis</b></summary>
 
+* 🛡️ **[soc-incident-response-simulation](https://github.com/GonzaloGaBa/soc-incident-response-simulation)**: Simulación de SOC en TryHackMe: triaje de alertas, correlación de tráfico de red y correo electrónico en Splunk, y gestión de falsos y verdaderos positivos.
 * 🚨 **[snort-ids-iptables-mitigation](https://github.com/GonzaloGaBa/snort-ids-iptables-mitigation)**: Simulación de Incident Response: detección de malware con Snort NIDS, captura forense (tcpdump) y contención con iptables en Mininet.
 * 🔍 **[Clasificacion-y-Triage-de-Alertas](https://github.com/GonzaloGaBa/Clasificacion-y-Triage-de-Alertas)**: Triage y análisis contextual de alertas NIDS/SIEM con reglas Snort, CVE/CVSS v3 y fuentes OSINT para clasificar TP/FP.
 * 🦠 **[emotet-maldoc-analysis](https://github.com/GonzaloGaBa/emotet-maldoc-analysis)**: Análisis estático y dinámico de documento malicioso con Emotet utilizando VirusTotal, ANY.RUN y desofuscación de payload en Linux.

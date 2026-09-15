@@ -140,6 +140,13 @@ Desplegá cada área técnica para ver el listado completo de laboratorios, enla
 * 📋 **[Security-Audit-NIST-Framework](https://github.com/GonzaloGaBa/Security-Audit-NIST-Framework)**: Auditoría de seguridad integral y análisis de riesgos aplicando el NIST Cybersecurity Framework (CSF).
 </details>
 
+<details>
+<summary><b>📂 Applied Cryptography & Data Protection Labs</b></summary>
+
+* 🔐 **[jcrypttool-applied-cryptography](https://github.com/GonzaloGaBa/jcrypttool-applied-cryptography/tree/master):** Prácticas de laboratorio de criptografía clásica, simétrica (AES) y asimétrica (RSA) utilizando JCryptTool.
+
+</details>
+
 ---
 
 ## 💻 Desarrollo y Programación (UTN)

@@ -12,7 +12,7 @@ Profesional de Tecnologías de la Información con sólida base en lógica de pr
 * **Network Security & Hardening:** Análisis de capturas de tráfico (PCAP), configuración de reglas de firewall/ACLs, hardening de switches y routers Cisco.
 * **Identity & Access Management (IAM):** Gestión de usuarios, grupos y permisos en entornos Linux y Windows.
 * **Threat Intelligence & Audit:** Mapeo de indicadores de compromiso (IoC), auditoría de logs del sistema e inspección de comportamiento anómalo.
-
+* **Applied Cryptography & Data Protection:** Análisis práctico de algoritmos de cifrado (clásico, simétrico AES y asimétrico RSA), gestión de llaves y keystores.
 ---
 
 ### 🧰 Technical Stack & Tooling
@@ -41,6 +41,9 @@ Profesional de Tecnologías de la Información con sólida base en lógica de pr
 **Security Frameworks & Standards**
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-000000?style=for-the-badge&logo=mitre&logoColor=white)
 ![NIST](https://img.shields.io/badge/NIST%20Framework-005A9C?style=for-the-badge&logo=nist&logoColor=white)
+
+**Cryptography & Security Tools**
+![JCryptTool](https://img.shields.io/badge/JCryptTool-Criptograf%C3%ADa-blue?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 ### 📜 Certifications & Cisco Credentials

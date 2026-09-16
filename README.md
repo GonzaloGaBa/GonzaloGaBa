@@ -1,4 +1,4 @@
-0# Hi there! I'm Gonzalo Barrientos 👋
+# Hi there! I'm Gonzalo Barrientos 👋
 
 **IT & Network Specialist | Cybersecurity & Defensive Security Focus**  
 Profesional de Tecnologías de la Información con sólida base en lógica de programación (UTN), administración de redes (Cisco NetAcad) y seguridad defensiva. Experiencia práctica en configuración e inspección de infraestructura de red, hardening de sistemas (Linux/Windows), análisis de logs y protocolos. Enfocado en brindar soporte técnico avanzado, administración segura de sistemas y análisis de seguridad operacional.

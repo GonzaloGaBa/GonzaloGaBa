@@ -1,4 +1,4 @@
-# Hi there! I'm Gonzalo Barrientos 👋
+0# Hi there! I'm Gonzalo Barrientos 👋
 
 **IT & Network Specialist | Cybersecurity & Defensive Security Focus**  
 Profesional de Tecnologías de la Información con sólida base en lógica de programación (UTN), administración de redes (Cisco NetAcad) y seguridad defensiva. Experiencia práctica en configuración e inspección de infraestructura de red, hardening de sistemas (Linux/Windows), análisis de logs y protocolos. Enfocado en brindar soporte técnico avanzado, administración segura de sistemas y análisis de seguridad operacional.
@@ -146,6 +146,7 @@ Desplegá cada área técnica para ver el listado completo de laboratorios, enla
 
 * 🔐 **[jcrypttool-applied-cryptography](https://github.com/GonzaloGaBa/jcrypttool-applied-cryptography/tree/master):** Prácticas de laboratorio de criptografía clásica, simétrica (AES) y asimétrica (RSA) utilizando JCryptTool.
 * 🔐 **[openssl-encryption-lab](https://github.com/GonzaloGaBa/openssl-data-encryption-lab/tree/master)**: Prácticas de cifrado simétrico en reposo (AES-256-CBC), codificación Base64 y recuperación forense en entornos Linux.
+* 🔓 **[file-encryption-bruteforce-lab](https://github.com/GonzaloGaBa/file-encryption-bruteforce-lab/tree/master):** Laboratorio de cifrado simétrico, simulación de errores de autenticación y auditoría de contraseñas con fcrackzip en Linux.
 
 </details>
 

@@ -13,6 +13,7 @@ Profesional de Tecnologías de la Información con sólida base en lógica de pr
 * **Identity & Access Management (IAM):** Gestión de usuarios, grupos y permisos en entornos Linux y Windows.
 * **Threat Intelligence & Audit:** Mapeo de indicadores de compromiso (IoC), auditoría de logs del sistema e inspección de comportamiento anómalo.
 * **Applied Cryptography & Data Protection:** Análisis práctico de algoritmos de cifrado (clásico, simétrico AES y asimétrico RSA), gestión de llaves y keystores.
+* **SSL/TLS & Secure Transport:** Configuración de certificados, análisis de protocolos de cifrado en tránsito y validación de canales seguros.
 ---
 
 ### 🧰 Technical Stack & Tooling
@@ -43,7 +44,7 @@ Profesional de Tecnologías de la Información con sólida base en lógica de pr
 ![NIST](https://img.shields.io/badge/NIST%20Framework-005A9C?style=for-the-badge&logo=nist&logoColor=white)
 
 **Cryptography & Security Tools**
-![JCryptTool](https://img.shields.io/badge/JCryptTool-Criptograf%C3%ADa-blue?style=for-the-badge&logo=java&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-AES--256-blue?style=for-the-badge&logo=security&logoColor=white)
 
 ---
 ### 📜 Certifications & Cisco Credentials
@@ -144,6 +145,7 @@ Desplegá cada área técnica para ver el listado completo de laboratorios, enla
 <summary><b>📂 Applied Cryptography & Data Protection Labs</b></summary>
 
 * 🔐 **[jcrypttool-applied-cryptography](https://github.com/GonzaloGaBa/jcrypttool-applied-cryptography/tree/master):** Prácticas de laboratorio de criptografía clásica, simétrica (AES) y asimétrica (RSA) utilizando JCryptTool.
+* 🔐 **[openssl-encryption-lab](https://github.com/GonzaloGaBa/openssl-data-encryption-lab/tree/master)**: Prácticas de cifrado simétrico en reposo (AES-256-CBC), codificación Base64 y recuperación forense en entornos Linux.
 
 </details>
 

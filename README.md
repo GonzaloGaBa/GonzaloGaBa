@@ -97,6 +97,7 @@ Desplegá cada área técnica para ver el listado completo de laboratorios, enla
 * 🔁 **[analisis-trafico-arp-cisco](https://github.com/GonzaloGaBa/analisis-trafico-arp-cisco)**: Inspección del protocolo ARP y análisis de direccionamiento dinámico (Capa 2 y Capa 3).
 * 🔒 **[cisco-ios-ssh-hardening](https://github.com/GonzaloGaBa/cisco-ios-ssh-hardening)**: Implementación de controles de seguridad y mitigación de Telnet en infraestructura Cisco IOS.
 * 🛡️ **[cisco-cyberops-labs](https://github.com/GonzaloGaBa/cisco-cyberops-labs)**: Laboratorios prácticos del programa Cisco CyberOps Associate enfocados en seguridad de red y operaciones SOC.
+* 🔐 **[auditoria-certificados-mitm](https://github.com/GonzaloGaBa/auditoria-certificados-mitm/tree/master)**: 🔐 Auditoría de almacenes de confianza de Autoridades de Certificación en Firefox y detección de Man-in-the-Middle con OpenSSL y análisis de huellas SHA-1.  
 </details>
 
 <details>

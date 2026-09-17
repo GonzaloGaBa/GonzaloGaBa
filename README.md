@@ -8,12 +8,14 @@ Profesional de Tecnologías de la Información con sólida base en lógica de pr
 ## 🛡️ Core Competencies & Technical Stack
 
 ### 🎯 Core Security Domains
-* **Security Operations & Incident Response:** Triage de alertas, investigación de amenazas (Threat Hunting), análisis de malware/procesos en Windows y Linux.
+* **Security Operations & Incident Response:** Triage de alertas, investigación de amenazas (Threat Hunting), análisis forense digital (DFIR) y de malware/procesos en Windows y Linux.
 * **Network Security & Hardening:** Análisis de capturas de tráfico (PCAP), configuración de reglas de firewall/ACLs, hardening de switches y routers Cisco.
 * **Identity & Access Management (IAM):** Gestión de usuarios, grupos y permisos en entornos Linux y Windows.
 * **Threat Intelligence & Audit:** Mapeo de indicadores de compromiso (IoC), auditoría de logs del sistema e inspección de comportamiento anómalo.
+* **Digital Forensics & Evidence Analysis:** Detección de artefactos ocultos, técnicas de esteganografía (Steghide) y recuperación de evidencias en archivos multimedia.
 * **Applied Cryptography & Data Protection:** Análisis práctico de algoritmos de cifrado (clásico, simétrico AES y asimétrico RSA), gestión de llaves y keystores.
 * **SSL/TLS & Secure Transport:** Configuración de certificados, análisis de protocolos de cifrado en tránsito y validación de canales seguros.
+
 ---
 
 ### 🧰 Technical Stack & Tooling
@@ -148,6 +150,13 @@ Desplegá cada área técnica para ver el listado completo de laboratorios, enla
 * 🔐 **[openssl-encryption-lab](https://github.com/GonzaloGaBa/openssl-data-encryption-lab/tree/master)**: Prácticas de cifrado simétrico en reposo (AES-256-CBC), codificación Base64 y recuperación forense en entornos Linux.
 * 🔓 **[file-encryption-bruteforce-lab](https://github.com/GonzaloGaBa/file-encryption-bruteforce-lab/tree/master):** Laboratorio de cifrado simétrico, simulación de errores de autenticación y auditoría de contraseñas con fcrackzip en Linux.
 * 🔓 **[wireshark-traffic-analysis-telnet-ssh](https://github.com/GonzaloGaBa/wireshark-traffic-analysis-telnet-ssh/tree/master)**: Análisis forense de tráfico local, exposición de credenciales en texto plano (Telnet) y validación de canales cifrados (SSH).
+
+</details>
+
+<details>
+<summary><b>📁 Digital Forensics & Data Hiding Labs</b></summary>
+
+* 🔓 **[steganography-steghide-lab](https://github.com/GonzaloGaBa/steghide-forensic-analysis-lab/tree/master)**: Práctica de laboratorio de esteganografía y análisis forense digital: ocultamiento, cifrado y extracción de datos con steghide en Linux.
 
 </details>
 

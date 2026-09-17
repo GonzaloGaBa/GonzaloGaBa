@@ -13,7 +13,7 @@ Profesional de Tecnologías de la Información con sólida base en lógica de pr
 * **Identity & Access Management (IAM):** Gestión de usuarios, grupos y permisos en entornos Linux y Windows.
 * **Threat Intelligence & Audit:** Mapeo de indicadores de compromiso (IoC), auditoría de logs del sistema e inspección de comportamiento anómalo.
 * **Digital Forensics & Evidence Analysis:** Detección de artefactos ocultos, técnicas de esteganografía (Steghide) y recuperación de evidencias en archivos multimedia.
-* **Applied Cryptography & Data Protection:** Análisis práctico de algoritmos de cifrado (clásico, simétrico AES y asimétrico RSA), gestión de llaves y keystores.
+* **Applied Cryptography & Data Protection:** Análisis práctico de algoritmos de cifrado (clásico, simétrico AES y asimétrico RSA), firmas digitales, gestión de llaves y keystores.
 * **SSL/TLS & Secure Transport:** Configuración de certificados, análisis de protocolos de cifrado en tránsito y validación de canales seguros.
 
 ---
@@ -46,7 +46,8 @@ Profesional de Tecnologías de la Información con sólida base en lógica de pr
 ![NIST](https://img.shields.io/badge/NIST%20Framework-005A9C?style=for-the-badge&logo=nist&logoColor=white)
 
 **Cryptography & Security Tools**
-![Cryptography](https://img.shields.io/badge/Cryptography-AES--256-blue?style=for-the-badge&logo=security&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-AES--256-blue?style=for-the-badge&logo=security&logoColor=white) 
+![OpenSSL](https://img.shields.io/badge/OpenSSL-CLI-red?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 ### 📜 Certifications & Cisco Credentials
@@ -151,6 +152,7 @@ Desplegá cada área técnica para ver el listado completo de laboratorios, enla
 * 🔓 **[file-encryption-bruteforce-lab](https://github.com/GonzaloGaBa/file-encryption-bruteforce-lab/tree/master):** Laboratorio de cifrado simétrico, simulación de errores de autenticación y auditoría de contraseñas con fcrackzip en Linux.
 * 🔓 **[wireshark-traffic-analysis-telnet-ssh](https://github.com/GonzaloGaBa/wireshark-traffic-analysis-telnet-ssh/tree/master)**: Análisis forense de tráfico local, exposición de credenciales en texto plano (Telnet) y validación de canales cifrados (SSH).
 * 🔒 **[data-integrity-forensics-hashing](https://github.com/GonzaloGaBa/data-integrity-forensics-hashing/tree/master)**: Implementación práctica de hashing criptográfico (SHA-256), demostración del efecto avalancha y verificación de integridad de archivos mediante Linux y OpenSSL.
+* 🔑 **[digital Signatures & Integrity Control (OpenSSL)](https://github.com/GonzaloGaBa/security-and-cryptography/tree/master):** Implementación de criptografía asimétrica (RSA) y funciones hash (SHA-256) para garantizar la autenticidad e integridad de documentos críticos, simulando escenarios de detección de fraude.
 
 </details>
 

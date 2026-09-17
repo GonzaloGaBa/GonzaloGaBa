@@ -150,6 +150,7 @@ Desplegá cada área técnica para ver el listado completo de laboratorios, enla
 * 🔐 **[openssl-encryption-lab](https://github.com/GonzaloGaBa/openssl-data-encryption-lab/tree/master)**: Prácticas de cifrado simétrico en reposo (AES-256-CBC), codificación Base64 y recuperación forense en entornos Linux.
 * 🔓 **[file-encryption-bruteforce-lab](https://github.com/GonzaloGaBa/file-encryption-bruteforce-lab/tree/master):** Laboratorio de cifrado simétrico, simulación de errores de autenticación y auditoría de contraseñas con fcrackzip en Linux.
 * 🔓 **[wireshark-traffic-analysis-telnet-ssh](https://github.com/GonzaloGaBa/wireshark-traffic-analysis-telnet-ssh/tree/master)**: Análisis forense de tráfico local, exposición de credenciales en texto plano (Telnet) y validación de canales cifrados (SSH).
+* 🔒 **[data-integrity-forensics-hashing](https://github.com/GonzaloGaBa/data-integrity-forensics-hashing/tree/master)**: Implementación práctica de hashing criptográfico (SHA-256), demostración del efecto avalancha y verificación de integridad de archivos mediante Linux y OpenSSL.
 
 </details>
 

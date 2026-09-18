@@ -63,7 +63,7 @@ Profesional de Tecnologías de la Información con sólida base en lógica de pr
 * 🛡️ **[Google Cybersecurity Professional Certificate](https://coursera.org/share/2b847e2cf1e40bb377e7d8babd81d0da)** — Google / Coursera
   * *Foco:* Operaciones de SOC, SIEM (Splunk / Chronicle), IDS (Suricata), Python, Wireshark, SQL, Linux y respuesta a incidentes (NIST SP 800-61).
 
-* 🌐 **Cisco Networking Academy — Cursos & Insignias Oficiales:**
+* 🌐 **Cisco Networking Academy-Carrera Profesional-Analista Junior en Ciberseguridad:**
   * 📜 **Administración de Amenazas Cibernéticas** *(En curso)*
   * 📜 **[Seguridad de Terminales / Endpoint Security](https://drive.google.com/file/d/1C9Tr5fVk5wtmTuno5rXeA8piZAW7wtG_/view?usp=sharing)** *(Septiembre2026)*
   * 📜 **[Dispositivos de Red y Configuración Inicial](https://drive.google.com/file/d/1yYCvIwlsWu1AEu6vdAnbFETxInn7YK1y/view?usp=sharing)** *(Junio 2026)*

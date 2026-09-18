@@ -64,7 +64,8 @@ Profesional de Tecnologías de la Información con sólida base en lógica de pr
   * *Foco:* Operaciones de SOC, SIEM (Splunk / Chronicle), IDS (Suricata), Python, Wireshark, SQL, Linux y respuesta a incidentes (NIST SP 800-61).
 
 * 🌐 **Cisco Networking Academy — Cursos & Insignias Oficiales:**
-  * 📜 **Seguridad de Terminales / Endpoint Security** *(En proceso)*
+  * 📜 **Administración de Amenazas Cibernéticas** *(En curso)*
+  * 📜 **[Seguridad de Terminales / Endpoint Security](https://drive.google.com/file/d/1C9Tr5fVk5wtmTuno5rXeA8piZAW7wtG_/view?usp=sharing)** *(Septiembre2026)*
   * 📜 **[Dispositivos de Red y Configuración Inicial](https://drive.google.com/file/d/1yYCvIwlsWu1AEu6vdAnbFETxInn7YK1y/view?usp=sharing)** *(Junio 2026)*
   * 📜 **[Conceptos Básico de Redes / Networking Basics](https://drive.google.com/file/d/1LvpZ1vFG4zWrVwV2wrPZ_KXKAwL1o5Bb/view?usp=sharing)** *(Marzo 2026)*
   * 📜 **[Introducción a la Ciberseguridad](https://drive.google.com/file/d/1tFuHo0o_1VT9HYxfHBKASL7PVvU0F_6z/view?usp=sharing)** *(Febrero 2026)*

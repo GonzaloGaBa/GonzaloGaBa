@@ -148,6 +148,7 @@ Desplegá cada área técnica para ver el listado completo de laboratorios, enla
 * ☁️ **[evaluacion-seguridad-nube-ecommerce](https://github.com/GonzaloGaBa/evaluacion-seguridad-nube-ecommerce)**: Matriz de responsabilidad compartida y evaluación de riesgos de seguridad para migración a la nube en e-commerce.
 * 📋 **[evaluacion-riesgos-athena](https://github.com/GonzaloGaBa/evaluacion-riesgos-athena)**: Evaluación de riesgos corporativos (Security Risk Assessment), clasificación de activos y matriz de mitigación para entornos híbridos y BYOD.
 * 📋 **[Security-Audit-NIST-Framework](https://github.com/GonzaloGaBa/Security-Audit-NIST-Framework)**: Auditoría de seguridad integral y análisis de riesgos aplicando el NIST Cybersecurity Framework (CSF).
+* 📋 **[cybersecurity-governance-and-policies](https://github.com/GonzaloGaBa/cybersecurity-governance-and-policies/tree/master)**: Análisis de riesgos, triaje de vulnerabilidades organizacionales y desarrollo de procedimientos operativos estándar (SOP) y políticas de seguridad.
 </details>
 
 <details>

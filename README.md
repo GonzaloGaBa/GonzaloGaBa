@@ -12,6 +12,7 @@ Profesional de Tecnologías de la Información con sólida base en lógica de pr
 * **Network Security & Hardening:** Análisis de capturas de tráfico (PCAP), configuración de reglas de firewall/ACLs, hardening de switches y routers Cisco.
 * **Identity & Access Management (IAM):** Gestión de usuarios, grupos y permisos en entornos Linux y Windows.
 * **Threat Intelligence & Audit:** Mapeo de indicadores de compromiso (IoC), auditoría de logs del sistema e inspección de comportamiento anómalo.
+* **Security Governance & Compliance (GRC):** Análisis de riesgos basados en auditorías, triaje de vulnerabilidades organizacionales y desarrollo de políticas de seguridad y procedimientos operativos estándar (SOP).
 * **Digital Forensics & Evidence Analysis:** Detección de artefactos ocultos, técnicas de esteganografía (Steghide) y recuperación de evidencias en archivos multimedia.
 * **Applied Cryptography & Data Protection:** Análisis práctico de algoritmos de cifrado (clásico, simétrico AES y asimétrico RSA), firmas digitales, gestión de llaves y keystores.
 * **SSL/TLS & Secure Transport:** Configuración de certificados, análisis de protocolos de cifrado en tránsito y validación de canales seguros.
@@ -48,6 +49,10 @@ Profesional de Tecnologías de la Información con sólida base en lógica de pr
 **Cryptography & Security Tools**
 ![Cryptography](https://img.shields.io/badge/Cryptography-AES--256-blue?style=for-the-badge&logo=security&logoColor=white) 
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-CLI-red?style=for-the-badge&logo=linux&logoColor=white)
+
+**Security Governance & Compliance**
+[![GRC & Policies](https://img.shields.io/badge/GRC%20%26%20Policies-333333?style=for-the-badge&logo=security&logoColor=white)](https://img.shields.io/badge/GRC%20%26%20Policies-333333?style=for-the-badge&logo=security&logoColor=white)
+[![Risk Assessment](https://img.shields.io/badge/Risk%20Assessment-005A9C?style=for-the-badge&logo=shield&logoColor=white)](https://img.shields.io/badge/Risk%20Assessment-005A9C?style=for-the-badge&logo=shield&logoColor=white)
 
 ---
 ### 📜 Certifications & Cisco Credentials

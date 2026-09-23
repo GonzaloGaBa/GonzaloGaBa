@@ -77,7 +77,7 @@ Profesional de Tecnologías de la Información con sólida base en lógica de pr
 
 ---
 
-## 🧪 Hands-On Labs & Portfolio Repositories (58 Repositories)
+## 🧪 Hands-On Labs & Portfolio Repositories (+50 Repositories)
 
 Desplegá cada área técnica para ver el listado completo de laboratorios, enlaces directos a los repositorios y su correspondiente descripción:
 

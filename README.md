@@ -117,6 +117,7 @@ Desplegá cada área técnica para ver el listado completo de laboratorios, enla
 * 🦠 **[emotet-maldoc-analysis](https://github.com/GonzaloGaBa/emotet-maldoc-analysis)**: Análisis estático y dinámico de documento malicioso con Emotet utilizando VirusTotal, ANY.RUN y desofuscación de payload en Linux.
 * 🚨 **[Analisis-Incidente-Network-Security](https://github.com/GonzaloGaBa/Analisis-Incidente-Network-Security)**: Análisis técnico y respuesta ante incidentes (SYN Flood) utilizando metodología NIST y revisión de logs TCP/IP.
 * 📓 **[cybersecurity-lab-journal](https://github.com/GonzaloGaBa/cybersecurity-lab-journal)**: Documentación técnica de laboratorios prácticos, análisis de logs y resolución de desafíos Blue Team / SOC.
+* 🔍 **[soc-threat-intel-and-vulnerability-analysis](https://github.com/GonzaloGaBa/soc-threat-intel-and-vulnerability-analysis/tree/master)**: Simulación de analista SOC Nivel 1: investigación de CVEs críticas en Cisco, mapeo de TTPs en MITRE ATT&CK y análisis forense de artefactos maliciosos mediante hashes y VirusTotal.
 </details>
 
 <details>
@@ -152,6 +153,7 @@ Desplegá cada área técnica para ver el listado completo de laboratorios, enla
 * 📋 **[evaluacion-riesgos-athena](https://github.com/GonzaloGaBa/evaluacion-riesgos-athena)**: Evaluación de riesgos corporativos (Security Risk Assessment), clasificación de activos y matriz de mitigación para entornos híbridos y BYOD.
 * 📋 **[Security-Audit-NIST-Framework](https://github.com/GonzaloGaBa/Security-Audit-NIST-Framework)**: Auditoría de seguridad integral y análisis de riesgos aplicando el NIST Cybersecurity Framework (CSF).
 * 📋 **[cybersecurity-governance-and-policies](https://github.com/GonzaloGaBa/cybersecurity-governance-and-policies/tree/master)**: Análisis de riesgos, triaje de vulnerabilidades organizacionales y desarrollo de procedimientos operativos estándar (SOP) y políticas de seguridad.
+* 🛡️ **[vulnerability-assessment-and-risk-analysis](https://github.com/GonzaloGaBa/soc-threat-intel-and-vulnerability-analysis)**: Auditoría e interpretación de informes de vulnerabilidades (CISA/NCATS), priorización de riesgos mediante CVSS v3, análisis de hallazgos críticos (MikroTik CVE) y planes de mitigación.
 </details>
 
 <details>

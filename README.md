@@ -156,6 +156,7 @@ Desplegá cada área técnica para ver el listado completo de laboratorios, enla
 * 🛡️ **[vulnerability-assessment-and-risk-analysis](https://github.com/GonzaloGaBa/soc-threat-intel-and-vulnerability-analysis)**: Auditoría e interpretación de informes de vulnerabilidades (CISA/NCATS), priorización de riesgos mediante CVSS v3, análisis de hallazgos críticos (MikroTik CVE) y planes de mitigación.
 * 📊 **[cybersecurity-risk-management-and-grc](https://github.com/GonzaloGaBa/cybersecurity-risk-management-and-grc/tree/master)**: Análisis integral de gestión de riesgos, evaluación cuantitativa/cualitativa de impactos (ransomware, brechas de datos) y diseño de contramedidas alineadas a marcos GRC.
 * 🧮 **[quantitative-and-qualitative-risk-analysis](https://github.com/GonzaloGaBa/quantitative-and-qualitative-risk-analysis/tree/master)**: Modelado financiero de riesgos en ciberseguridad, cálculo de métricas SLE, ARO, ALE, evaluación de activos tangibles/intangibles y matrices de impacto cualitativo.
+* 🏫 **[security-controls-implementation-and-architecture](https://github.com/GonzaloGaBa/security-controls-implementation-and-architecture/tree/master)**: Diseño y propuesta de arquitectura defensiva aplicando controles físicos, técnicos y administrativos (preventivos, detectivos y correctivos) para mitigar incidentes escolares y brechas de red.
 </details>
 
 <details>

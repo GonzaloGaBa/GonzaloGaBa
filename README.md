@@ -118,6 +118,7 @@ Desplegá cada área técnica para ver el listado completo de laboratorios, enla
 * 🚨 **[Analisis-Incidente-Network-Security](https://github.com/GonzaloGaBa/Analisis-Incidente-Network-Security)**: Análisis técnico y respuesta ante incidentes (SYN Flood) utilizando metodología NIST y revisión de logs TCP/IP.
 * 📓 **[cybersecurity-lab-journal](https://github.com/GonzaloGaBa/cybersecurity-lab-journal)**: Documentación técnica de laboratorios prácticos, análisis de logs y resolución de desafíos Blue Team / SOC.
 * 🔍 **[soc-threat-intel-and-vulnerability-analysis](https://github.com/GonzaloGaBa/soc-threat-intel-and-vulnerability-analysis/tree/master)**: Simulación de analista SOC Nivel 1: investigación de CVEs críticas en Cisco, mapeo de TTPs en MITRE ATT&CK y análisis forense de artefactos maliciosos mediante hashes y VirusTotal.
+* * 🔬 **[malware-analysis-and-incident-response](https://github.com/GonzaloGaBa/malware-analysis-and-incident-response/tree/master)**: Análisis forense dinámico de malware en sandboxes (ANY.RUN), validación de IOCs (hashes MD5/SHA256), inspección de árboles de procesos y mapeo de tácticas con MITRE ATT&CK.
 </details>
 
 <details>

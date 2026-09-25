@@ -175,7 +175,7 @@ Desplegá cada área técnica para ver el listado completo de laboratorios, enla
 <summary><b>📁 Digital Forensics & Data Hiding Labs</b></summary>
 
 * 🔓 **[steganography-steghide-lab](https://github.com/GonzaloGaBa/steghide-forensic-analysis-lab/tree/master)**: Práctica de laboratorio de esteganografía y análisis forense digital: ocultamiento, cifrado y extracción de datos con steghide en Linux.
-
+* 💻 **[linux-incident-response-triage](https://github.com/GonzaloGaBa/soc-linux-forensic-triage/tree/master)**: Práctica de respuesta a incidentes y análisis forense en Linux: recolección de datos volátiles y auditoría de logs de autenticación (SOC / Blue Team).
 </details>
 
 ---

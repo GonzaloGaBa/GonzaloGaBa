@@ -55,6 +55,19 @@ Profesional de Tecnologías de la Información con sólida base en lógica de pr
 [![Risk Assessment](https://img.shields.io/badge/Risk%20Assessment-005A9C?style=for-the-badge&logo=shield&logoColor=white)](https://img.shields.io/badge/Risk%20Assessment-005A9C?style=for-the-badge&logo=shield&logoColor=white)
 
 ---
+
+## ⚙️  Ingeniería Defensiva & Proyectos Personales  🛡️
+
+### 🛡️ [SOC Home Lab — Threat Detection & Incident Response](https://github.com/GonzaloGaBa/soc-home-lab)
+* **Descripción:** Diseño y despliegue autónomo de un laboratorio defensivo para análisis de telemetría de endpoints en Windows, ingeniería de detección y respuesta ante incidentes.
+* **Componentes Clave:**
+  * **Telemetría Avanzada:** Despliegue de Microsoft Sysmon (plantilla SwiftOnSecurity) monitoreando Event IDs 1 (procesos), 3 (red), 11 (archivos) y 22 (DNS).
+  * **Simulación de Amenazas:** Ejecución controlada de técnicas de reconocimiento (LOLBins) mapeadas a **MITRE ATT&CK T1087** y **T1057**.
+  * **Ingeniería de Detección:** Creación de reglas estandarizadas en formato **SIGMA (YAML)** para detección en línea de comandos (`CommandLine`).
+  * **Gestión de Incidentes:** Documentación de reporte IR (`INC-2026-001`), extracción de IoCs y plan de mitigación.
+
+---
+
 ### 📜 Certifications & Cisco Credentials
 
 * 🎓 **Tecnicatura Universitaria en Programación** — Universidad Tecnológica Nacional (UTN) *(2022 – 2024)*
@@ -63,24 +76,20 @@ Profesional de Tecnologías de la Información con sólida base en lógica de pr
 * 🛡️ **[Google Cybersecurity Professional Certificate](https://coursera.org/share/2b847e2cf1e40bb377e7d8babd81d0da)** — Google / Coursera
   * *Foco:* Operaciones de SOC, SIEM (Splunk / Chronicle), IDS (Suricata), Python, Wireshark, SQL, Linux y respuesta a incidentes (NIST SP 800-61).
 
-* 🌐 **Cisco Networking Academy-Carrera Profesional-Analista Junior en Ciberseguridad:**
-  * 📜 **Administración de Amenazas Cibernéticas** *(En curso)*
+* 🌐 **[Cisco Networking Academy — Junior Cybersecurity Analyst Career Path](https://drive.google.com/file/d/1cQihApmbTDc-VabqOeYCv2NgSdwSGflt/view?usp=sharing)** — Cisco *(Completado: Octubre 2026)*
+  * **Cursos del Trayecto:**
+  * 📜 **[Administración de Amenazas Cibernéticas](https://drive.google.com/file/d/1aHadKqGnf8gBbw_y7vOt1zXyPpigUTF5/view?usp=sharing)** *(Octubre 2026)*
   * 📜 **[Seguridad de Terminales / Endpoint Security](https://drive.google.com/file/d/1C9Tr5fVk5wtmTuno5rXeA8piZAW7wtG_/view?usp=sharing)** *(Septiembre2026)*
   * 📜 **[Dispositivos de Red y Configuración Inicial](https://drive.google.com/file/d/1yYCvIwlsWu1AEu6vdAnbFETxInn7YK1y/view?usp=sharing)** *(Junio 2026)*
   * 📜 **[Conceptos Básico de Redes / Networking Basics](https://drive.google.com/file/d/1LvpZ1vFG4zWrVwV2wrPZ_KXKAwL1o5Bb/view?usp=sharing)** *(Marzo 2026)*
   * 📜 **[Introducción a la Ciberseguridad](https://drive.google.com/file/d/1tFuHo0o_1VT9HYxfHBKASL7PVvU0F_6z/view?usp=sharing)** *(Febrero 2026)*
   * 📜 **[Introducción a Cisco Packet Tracer](https://drive.google.com/file/d/1tR6uwaEZ7evq0s_4svmxS2eB9vyFJUBH/view?usp=sharing)** *(Febrero 2026)*
 
-* 🎓 **Módulos Técnicos y Logros Completados (Cisco NetAcad):**
-  * **Seguridad & Defensa:** Defensa de la red, Conceptos básicos de seguridad de red, Análisis de amenazas, Salvaguardias del sistema y Administración de ciberseguridad.
-  * **Infraestructura & Redes:** Configuración Básica de Cisco, Servicios Básicos de Transporte, Acceso a la Red, Diseño Jerárquico y Sistemas Numéricos, Protocolos de Red e IP.
-
 ---
 
-## 🧪 Hands-On Labs & Portfolio Repositories (+50 Repositories)
+## 🧪 Hands-On Labs & Academic Portfolio — Cisco NetAcad (+50 Repositories)
 
-Desplegá cada área técnica para ver el listado completo de laboratorios, enlaces directos a los repositorios y su correspondiente descripción:
-
+Colección de laboratorios prácticos desarrollados a lo largo de la carrera de **Junior Cybersecurity Analyst (Cisco Networking Academy)**. Desplegá cada área técnica para explorar la documentación, configuraciones y guías paso a paso:
 
 <details>
 <summary>📂 <b>Network Security & Infrastructure Hardening (Cisco IOS)</b></summary>
